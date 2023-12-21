@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manu577228&label=Profile%20views&color=0e75b6&style=flat" alt="manu577228" /> </p>
 
-- 🌱 I’m currently learning & Working on **Full Stack ( MERN / MEAN / SPRINGBOOT )**
+- ⌨ I’m currently learning & Working on **Full Stack ( MERN / MEAN / SPRINGBOOT )**
 
 - 👨‍💻 All of my projects are available at [https://manu-bharadwaj-portfolio.vercel.app/](https://manu-bharadwaj-portfolio.vercel.app/)
 
