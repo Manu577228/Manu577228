@@ -1,4 +1,4 @@
-![logo]([https://github.com/Manu577228/Manu577228/blob/main/Manu%20Banner.PNG](https://github.com/Manu577228/Manu577228/blob/main/Manu%20Banner.PNG))
+![logo]([https://github.com/Manu577228/Manu577228/blob/main/Manu%20Banner.PNG])
 <h3 align="center">Battling bugs and spicing up software. Serious fun, seriously!</h3>
 
 <img align = "right" alt="coding" width="400" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif">
