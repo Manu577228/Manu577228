@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bnmanubharadwaj@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1H7OBy1BcSHgXRVU2YBgzd5qR3f13TX2N/view?usp=sharing](https://drive.google.com/file/d/1H7OBy1BcSHgXRVU2YBgzd5qR3f13TX2N/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1F9HrgusmwL7lygSOhhiA-rsgeiX1lYqB/view?usp=drive_link](https://drive.google.com/file/d/1F9HrgusmwL7lygSOhhiA-rsgeiX1lYqB/view?usp=drive_link)
 
 - ⚡ Fun fact **Why did the Indian software engineer bring a ladder to the coding competition? To reach the next level of programming!**
 
