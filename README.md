@@ -1,7 +1,7 @@
 ![logo](https://github.com/Manu577228/Manu577228/blob/main/Manu%20Banner.PNG)
 <h3 align="center">Battling bugs and spicing up software. Serious fun, seriously!</h3>
 
-<img align = "right" alt="coding" width="400" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif">
+<img align = "right" alt="coding" width="400" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ycgioqq4tc74brqnbghxzue4rd3cu4h83d2b21aw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manu577228&label=Profile%20views&color=0e75b6&style=flat" alt="manu577228" /> </p>
 
