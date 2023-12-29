@@ -7,7 +7,7 @@
 
 - ⌨ I’m currently learning & Working on **Full Stack ( MERN / MEAN / SPRINGBOOT )**
 
-- 👨‍💻 All of my projects are available at [https://manu-bharadwaj-bn-portfolio.firebaseapp.com/](https://manu-bharadwaj-bn-portfolio.firebaseapp.com/)
+- 👨‍💻 All of my projects are available at [https://manu-bharadwaj-bn-portfolio.netlify.app/](https://manu-bharadwaj-bn-portfolio.netlify.app/)
 
 - 💬 Ask me about **MERN, MEAN, SPRINGBOOT**
 
