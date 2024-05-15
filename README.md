@@ -12,8 +12,6 @@
 
 - 📫 How to reach me: [bnmanubharadwaj@gmail.com](mailto:bnmanubharadwaj@gmail.com)
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1axMjD_7Z7v259YwWgsKBSIoeGQMXPrWq/view?usp=drive_link)
-
 - ⚡ Fun fact: Why did the Indian software engineer bring a ladder to the coding competition? To reach the next level of programming!
 
 <h3 align="left">Connect with me:</h3>
