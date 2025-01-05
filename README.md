@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/manu-bharadwaj-3507a345/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://www.leetcode.com/manu-bharadwaj-bn" target="_blank">
+  <a href="https://leetcode.com/u/manubn/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
   </a>
   <a href="https://www.youtube.com/@code-with-Bharadwaj" target="_blank">
