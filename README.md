@@ -6,13 +6,13 @@ I enjoy solving challenging problems, designing maintainable systems, and buildi
 ---
 
 ## 🌐 Quick Links  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-here](https://www.linkedin.com/in/manu-bharadwaj-3507a345/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manu-bharadwaj-3507a345/)  
 [![YouTube](https://img.shields.io/badge/YouTube-Code%20with%20Bharadwaj-red?style=for-the-badge&logo=youtube)](https://youtube.com/@code-with-Bharadwaj)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://manu-bharadwaj-portfolio.vercel.app/portfolio)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Manu577228)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?style=for-the-badge)](https://codeforces.com/profile/bharadwaj_manu)  
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge)](https://www.codechef.com/users/bharadwaj_manu)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-yellow?style=for-the-badge&logo=leetcode)]([https://leetcode.com/](https://leetcode.com/u/the_bharadwaj/)) <!-- add your link -->  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/the_bharadwaj/) <!-- add your link -->  
 
 ---
 
@@ -77,14 +77,14 @@ I enjoy solving challenging problems, designing maintainable systems, and buildi
 
 - **Frontend:** Vercel, Netlify  
 - **Backend APIs:** Render  
-- **Databases:** SQLite (lightweight apps), PostgreSQL (production), MySQL & MongoDB  
+- **Databases:** SQLite (lightweight apps), PostgreSQL (production), MySQL, MSSQL & MongoDB  
 
 ---
 
 ## 🎯 What I'm Working On  
 
 - 🚀 Expanding my **Java DSA templates** collection (30–50 key algorithms)  
-- 🏗️ Building real-world projects with **Django + FastAPI**  
+- 🏗️ Building real-world projects with **React/Angular & Django/FastAPI**  
 - 📘 Practicing advanced **system design** concepts  
 - 🎥 Growing my **YouTube channel** with tutorials on CP & scalable systems  
 
