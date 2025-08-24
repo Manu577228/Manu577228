@@ -1,12 +1,12 @@
 # 👋 Hey, I'm Bharadwaj  
 
-🚀 Software Engineer passionate about **scalable backend systems, clean architectures, and competitive programming**.  
+🚀 Software Engineer passionate about **scalable frontend & backend systems, clean architectures, and competitive programming**.  
 I enjoy solving challenging problems, designing maintainable systems, and building applications that deliver impact.  
 
 ---
 
 ## 🌐 Quick Links  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-here)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-here](https://www.linkedin.com/in/manu-bharadwaj-3507a345/))  
 [![YouTube](https://img.shields.io/badge/YouTube-Code%20with%20Bharadwaj-red?style=for-the-badge&logo=youtube)](https://youtube.com/@code-with-Bharadwaj)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://manu-bharadwaj-portfolio.vercel.app/portfolio)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Manu577228)  
