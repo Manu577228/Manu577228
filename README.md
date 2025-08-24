@@ -93,4 +93,4 @@ I enjoy solving challenging problems, designing maintainable systems, and buildi
 ## 🤝 Let’s Connect!  
 
 💼 Always open to collaborations, open-source contributions, and technical discussions.  
-👉 Reach out via [LinkedIn](https://www.linkedin.com/in/your-linkedin-here), [GitHub](https://github.com/Manu577228), or [Portfolio](https://manu-bharadwaj-portfolio.vercel.app/portfolio)  
+👉 Reach out via [LinkedIn](https://www.linkedin.com/in/manu-bharadwaj-3507a345/), [GitHub](https://github.com/Manu577228), or [Portfolio](https://manu-bharadwaj-portfolio.vercel.app/portfolio)  
