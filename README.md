@@ -6,12 +6,13 @@ I enjoy solving challenging problems, designing maintainable systems, and buildi
 ---
 
 ## 🌐 Quick Links  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-here)  
+[![YouTube](https://img.shields.io/badge/YouTube-Code%20with%20Bharadwaj-red?style=for-the-badge&logo=youtube)](https://youtube.com/@code-with-Bharadwaj)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://manu-bharadwaj-portfolio.vercel.app/portfolio)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Manu577228)  
-[![YouTube](https://img.shields.io/badge/YouTube-Code%20with%20Bharadwaj-red?style=for-the-badge&logo=youtube)](https://youtube.com/@code-with-Bharadwaj)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?style=for-the-badge)](https://codeforces.com/profile/bharadwaj_manu)  
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge)](https://www.codechef.com/users/bharadwaj_manu)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/) <!-- add your link -->  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-yellow?style=for-the-badge&logo=leetcode)]([https://leetcode.com/](https://leetcode.com/u/the_bharadwaj/)) <!-- add your link -->  
 
 ---
 
@@ -27,8 +28,6 @@ I enjoy solving challenging problems, designing maintainable systems, and buildi
 - 🔐 **Security:** OAuth2, JWT  
 - ⚙️ **CI/CD:** Jenkins, GitHub Actions  
 - 📡 **API Design:** OpenAPI/Swagger, Consistent Error Handling  
-
-**Currently Exploring:** Kafka, RabbitMQ, Event Sourcing, CQRS, GitOps, Secrets Management  
 
 ---
 
@@ -94,4 +93,4 @@ I enjoy solving challenging problems, designing maintainable systems, and buildi
 ## 🤝 Let’s Connect!  
 
 💼 Always open to collaborations, open-source contributions, and technical discussions.  
-👉 Reach out via [GitHub](https://github.com/Manu577228) or [Portfolio](https://manu-bharadwaj-portfolio.vercel.app/portfolio)  
+👉 Reach out via [LinkedIn](https://www.linkedin.com/in/your-linkedin-here), [GitHub](https://github.com/Manu577228), or [Portfolio](https://manu-bharadwaj-portfolio.vercel.app/portfolio)  
