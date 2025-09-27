@@ -84,7 +84,7 @@ I enjoy solving challenging problems, designing maintainable systems, and buildi
 ## 🎯 What I'm Working On  
 
 - 🚀 Expanding my **Java DSA templates** collection (30–50 key algorithms)  
-- 🏗️ Building real-world projects with **React/Angular & Django/FastAPI**  
+- 🏗️ Building real-world projects with **React/Angular & Django/FastAPI/Springboot/Express.js**  
 - 📘 Practicing advanced **system design** concepts  
 - 🎥 Growing my **YouTube channel** with tutorials on CP & scalable systems  
 
