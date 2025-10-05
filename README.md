@@ -19,13 +19,13 @@ I enjoy solving challenging problems, designing maintainable systems, and buildi
 
 💡 I design **scalable, reliable, and maintainable** systems with a strong focus on performance and clarity.  
 
-- 🏗️ **Architecture:** Microservices vs. Monoliths, Domain-Driven Design  
+- 🏗️ **Architecture:** MVT vs. Microservices vs. Monoliths, Domain-Driven Design  
 - 🔗 **Communication:** REST, GraphQL  
 - 💾 **Data:** SQL/NoSQL, basic sharding concepts  
-- 🚀 **Scalability:** Load balancing, Autoscaling, Redis caching, CDNs  
+- 🚀 **Scalability:** Load balancing, Autoscaling, CDNs  
 - 🛡️ **Resilience:** Observability, Monitoring & Logging  
-- 🔐 **Security:** OAuth2, JWT  
-- ⚙️ **CI/CD:** Jenkins, GitHub Actions  
+- 🔐 **Security:** OAuth, JWT  
+- ⚙️ **CI/CD:** Jenkins, GitHub  
 - 📡 **API Design:** OpenAPI/Swagger, Consistent Error Handling  
 
 ---
