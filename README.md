@@ -11,7 +11,6 @@ I enjoy solving challenging problems, designing maintainable systems, and buildi
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://manu-bharadwaj-portfolio.vercel.app/portfolio)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Manu577228)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?style=for-the-badge)](https://codeforces.com/profile/MBBN)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge)](https://www.codechef.com/users/bharadwaj_manu)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/the_bharadwaj/) 
 
 ---
