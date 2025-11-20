@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Bharadwaj  
 
 🚀 Software Engineer passionate about **scalable frontend & backend systems, clean architectures, and competitive programming**.  
-I enjoy solving challenging problems, designing maintainable systems, and building applications that deliver impact.  
+I enjoy solving challenging problems, designing maintainable systems, and building applications that deliver impact!  
 
 ---
 
