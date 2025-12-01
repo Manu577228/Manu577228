@@ -12,9 +12,6 @@ I enjoy solving challenging problems, designing maintainable systems, and buildi
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Manu577228)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?style=for-the-badge)](https://codeforces.com/profile/MBBN)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/mbbn/) 
-[![LeetCode-1(Excessive usage of AI)](https://img.shields.io/badge/LeetCode-Practice-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Manu-Bharadwaj-BN/) 
-[![LeetCode-2(Excessive usage of AI)](https://img.shields.io/badge/LeetCode-Practice-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/manubn/) 
-[![LeetCode-3(Excessive usage of AI)](https://img.shields.io/badge/LeetCode-Practice-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/the_bharadwaj/) 
 
 ---
 
