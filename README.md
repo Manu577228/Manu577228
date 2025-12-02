@@ -1,141 +1,165 @@
-<!-- Hero Banner -->
+<!-- MINIMAL APPLE-STYLE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=250&section=header&text=Bharadwaj%20BN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Bharadwaj%20BN&fontSize=60&fontColor=000000&fontAlignY=55" />
 </p>
 
-<!-- Typing Intro -->
+<!-- GOLD DIVIDER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF512F&size=28&center=true&vCenter=true&width=900&lines=Software+Engineer;System+Design+Specialist;Full-Stack+Developer;Competitive+Programmer;Builder+of+Scalable+Systems;Clean+Architecture+Advocate" />
+  <img src="https://img.shields.io/badge/───────────────-FFD700?style=flat-square&labelColor=FFFFFF&color=000000" width="300">
 </p>
+
+<!-- APPLE-MINIMAL SUBTITLE -->
+<p align="center">
+  <b><span style="font-size: 22px; color: black;">Software Engineer</span></b><br/>
+  <span style="font-size: 16px; color: #5A5A5A;">
+    System Design • Distributed Systems • Full-Stack Engineering • Competitive Programming
+  </span>
+</p>
+
+<br/>
 
 ---
 
-# 🌟 About Me  
+# 🖤 About Me
 
-I am **Bharadwaj**, a Software Engineer who blends **system design thinking**, **high-quality engineering**, and **frontend–backend depth** to build  
-**fast, scalable, reliable, and clean systems**.
+I’m **Bharadwaj**, a Software Engineer focused on **clarity, scalability, and long-term design**.  
+I build **clean, maintainable, and high-performance systems** that follow engineering best practices.
 
-I enjoy solving complex problems, designing production-grade architectures, and building products that feel good to use and even better to maintain.
+My approach:  
+- Minimal  
+- Intentional  
+- Elegant  
+- Highly engineered  
 
-I believe in:  
-✨ Strong fundamentals  
-✨ Clear, maintainable code  
-✨ Performance-driven engineering  
-✨ Long-term scalable design
-
----
-
-# 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/manu-bharadwaj-3507a345/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://youtube.com/@code-with-Bharadwaj"><img src="https://img.shields.io/badge/YouTube-Code%20With%20Bharadwaj-FF0000?style=for-the-badge&logo=youtube" /></a>
-  <a href="https://manu-bharadwaj-portfolio.vercel.app/portfolio"><img src="https://img.shields.io/badge/Portfolio-View%20Work-000000?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://github.com/Manu577228"><img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://codeforces.com/profile/MBBN"><img src="https://img.shields.io/badge/Codeforces-MBBN-orange?style=for-the-badge" /></a>
-</p>
+I believe good engineering is quiet, reliable, efficient, and built with purpose.
 
 ---
 
 # 🧩 LeetCode Profiles  
 
-### ⭐ **Active Main Profile**
-[![LeetCode](https://img.shields.io/badge/LeetCode-Active%20Profile-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/mbbn/)  
-**Username:** `mbbn`
+### ⭐ **Active Profile**
+[![LeetCode](https://img.shields.io/badge/LeetCode-Active_Profile-000000?style=for-the-badge&logo=leetcode&logoColor=FFD700)](https://leetcode.com/u/mbbn/)  
+**`mbbn`**
 
-### ❌ **Banned — Excessive AI Usage**  
-(Older accounts that LeetCode banned for “Excessive AI Usage”)
+### ⚠️ **Banned – Excessive AI Usage**  
+(Mentioned for transparency; these accounts were banned by LeetCode AI-detection)
 
-[![LeetCode](https://img.shields.io/badge/BANNED-Excessive%20AI%20Usage-red?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Manu-Bharadwaj-BN/)  
+[![LeetCode](https://img.shields.io/badge/Banned-Excessive_AI_Usage-000000?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFD700)](https://leetcode.com/u/Manu-Bharadwaj-BN/)  
 `Manu-Bharadwaj-BN`
 
-[![LeetCode](https://img.shields.io/badge/BANNED-Excessive%20AI%20Usage-red?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/manubn/)  
+[![LeetCode](https://img.shields.io/badge/Banned-Excessive_AI_Usage-000000?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFD700)](https://leetcode.com/u/manubn/)  
 `manubn`
 
-[![LeetCode](https://img.shields.io/badge/BANNED-Excessive%20AI%20Usage-red?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/the_bharadwaj/)  
+[![LeetCode](https://img.shields.io/badge/Banned-Excessive_AI_Usage-000000?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFD700)](https://leetcode.com/u/the_bharadwaj/)  
 `the_bharadwaj`
 
 ---
 
-# 🚀 Technical Expertise  
+# 🌐 Links  
 
-## 🏛️ System Design & Architecture  
-- Microservices, Modular Monoliths, Event-Driven Architecture  
-- Scalable REST/GraphQL API Design  
-- Distributed Systems, Caching, Load Balancing, CDN  
-- Observability: Logging, Monitoring, Tracing  
-- Authentication: OAuth2, JWT  
-- Clean Architecture & Domain-Driven Design  
-
-## 🛠️ Backend Engineering  
-- High-performance backend development using **Java (Spring Boot)** & **Python (Django/FastAPI)**  
-- Database modeling: SQL + NoSQL  
-- Optimizing queries, indexing, and caching  
-- Writing maintainable, test-driven, production-ready code  
-
-## 🎨 Frontend Engineering  
-- React + TypeScript (SPA, SSR, modern UI architecture)  
-- Angular (component-driven architecture)  
-- Reusable UI patterns, accessibility, performance tuning  
+<p align="center">
+  <a href="https://www.linkedin.com/in/manu-bharadwaj-3507a345/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+  </a>
+  <a href="https://youtube.com/@code-with-Bharadwaj">
+    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" />
+  </a>
+  <a href="https://manu-bharadwaj-portfolio.vercel.app/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+  </a>
+  <a href="https://github.com/Manu577228">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+  <a href="https://codeforces.com/profile/MBBN">
+    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=FFD700" />
+  </a>
+</p>
 
 ---
 
-# ⚡ Tech Stack Overview  
+# ⚡ Technical Focus  
 
-### 💻 Languages  
+## 🏛 Architecture & Design  
+- Distributed Systems  
+- Clean Architecture  
+- Microservices & Modular Monoliths  
+- High-Availability API Design  
+- Caching, Load Balancing, Rate Limiting  
+- Observability (Tracing • Logging • Monitoring)  
+
+## 🛠 Backend Engineering  
+- Java (Spring Boot)  
+- Python (FastAPI / Django)  
+- SQL/NoSQL Design  
+- API Design Patterns  
+- Performance-Oriented Engineering  
+
+## 🎨 Frontend Engineering  
+- React + TypeScript  
+- Angular  
+- Component Architecture  
+- Modern UI Patterns  
+
+---
+
+# 🖥 Tech Stack  
+
+### Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts" height="70"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts" height="80"/>
 </p>
 
-### 🧩 Frameworks  
+### Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,react,angular,django,fastapi,nodejs" height="70"/>
+  <img src="https://skillicons.dev/icons?i=spring,react,angular,django,fastapi" height="80"/>
 </p>
 
-### 🗄️ Databases  
+### Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" height="70"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" height="80"/>
 </p>
 
-### ☁️ DevOps & Deployment  
+### DevOps  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions,jenkins,docker,git" height="70"/>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions,jenkins,docker,git" height="80"/>
 </p>
 
 ---
 
 # 🧠 Competitive Programming  
 
-- Solve problems using **Java** and **Python**  
-- Strong in Graphs, DP, Segment Trees, Greedy, Sliding Window  
-- Codeforces, LeetCode, CodeChef — active competitive programmer  
-- Create educational content on **YouTube**  
-- Maintain **50+ reusable templates** for algorithms & patterns  
+- Java & Python problem-solving  
+- Graphs • DP • Segment Trees • Strings • Greedy  
+- Codeforces | LeetCode | CodeChef  
+- 50+ reusable algorithm templates  
+- Teach algorithms on YouTube  
 
 ---
 
-# 🎯 Currently Building  
+# 🎯 Currently Working On  
 
-- ⚙️ Expanding **Java DSA template library** (50+ templates)  
-- 💻 Real-world projects with **React + Django/FastAPI/Spring Boot**  
-- 📚 Deep-dive into **High-Level & Low-Level System Design**  
-- 🎥 Growing YouTube channel with technical explanations  
+- Apple-minimal system design guides  
+- Java DSA template expansion (50+)  
+- Full-stack real-world projects  
+- High-level & low-level design patterns  
+- YouTube educational content  
 
 ---
 
-# 🤝 Let’s Collaborate  
-
-I enjoy discussing system design, product architecture, and real-world engineering challenges.  
-Open to opportunities, collaborations, and impactful engineering work.
+# 🤝 Let’s Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manu-bharadwaj-3507a345/"><img src="https://img.shields.io/badge/LinkedIn-Message%20Me-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://manu-bharadwaj-portfolio.vercel.app/portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore%20Projects-000000?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://github.com/Manu577228"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/manu-bharadwaj-3507a345/">
+    <img src="https://img.shields.io/badge/Message%20on%20LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+  </a>
+  <a href="https://manu-bharadwaj-portfolio.vercel.app/portfolio">
+    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+  </a>
 </p>
 
 ---
 
-<!-- Footer Banner -->
+<!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD2476,100:FF512F&height=180&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=footer&text=%20&fontSize=24" />
 </p>
