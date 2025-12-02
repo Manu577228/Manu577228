@@ -143,15 +143,16 @@ Always improving. Always learning. Always building.
 <p align="center" style="
  max-width:700px; 
  margin:auto;
- font-size:16.5px;
+ font-size:17px;
  color:#333;
- font-weight:500;
- line-height:1.6;
+ font-weight:600;
+ line-height:2;
+ text-align:center;
 ">
-<b>Languages:</b> Java, Python  
-<b>Strengths:</b> Dynamic Programming, Graphs, Trees, Segment Trees, Greedy  
-<b>Platforms:</b> LeetCode, Codeforces, CodeChef  
-<b>Focus:</b> Clean logic, optimization, reusable templates  
+<b>Languages:</b><br/>Java<br/>Python<br/><br/>
+<b>Strengths:</b><br/>Dynamic Programming<br/>Graphs<br/>Trees<br/>Segment Trees<br/>Greedy Approaches etc......<br/><br/>
+<b>Platforms:</b><br/>LeetCode<br/>Codeforces<br/><br/>
+<b>Focus:</b><br/>Clean Logic<br/>Optimization<br/>Reusable Templates
 </p>
 
 ---
@@ -161,21 +162,22 @@ Always improving. Always learning. Always building.
 <p align="center" style="
  max-width:700px;
  margin:auto;
- font-size:16.5px;
+ font-size:17px;
  color:#333;
- font-weight:500;
- line-height:1.6;
+ font-weight:600;
+ line-height:2;
+ text-align:center;
 ">
-<b>• What Can You Expect ?
-• Scalable Backend Engineering  
-• Clean Architecture  
-• HLD + LLD  
-• Full Stack Development  
-• System Design</b>
+<b>Scalable Backend Engineering</b><br/>
+<b>Clean Architecture</b><br/>
+<b>High-Level Design (HLD)</b><br/>
+<b>Low-Level Design (LLD)</b><br/>
+<b>Full Stack Development</b><br/>
+<b>System Design Fundamentals</b>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=90&section=footer&text=Neomorphic+Design+•+Clean+Engineering+•+Future-Ready&fontSize=20&fontColor=0A0A0A"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=008CFF&center=true&vCenter=true&width=900&height=50&lines=Clean+Engineering+•+Future-Ready"/>
 </p>
