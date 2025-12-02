@@ -20,7 +20,19 @@
 ">
 
 <!-- ===================================================================== -->
-<!-- 🔥 FUNKY NAME WITH CALIGRAPHY GLOW                                   -->
+<!-- 🖼️ YOUR IMAGE (ADDED BACK, WITH NEON GLOW)                           -->
+<!-- ===================================================================== -->
+
+<img src="https://i.postimg.cc/SKBNcms1/Bharadwaj-removebg-preview.png"
+     width="230"
+     style="
+       border-radius:20px;
+       margin-bottom:20px;
+       box-shadow:0 0 25px #ffffff77, 0 0 50px #ffffff33;
+     "/>
+
+<!-- ===================================================================== -->
+<!-- 🔥 YOUR NAME                                                          -->
 <!-- ===================================================================== -->
 
 <h1 style="
@@ -45,7 +57,7 @@
 <br/><br/>
 
 <!-- ===================================================================== -->
-<!-- 🕷️ ABOUT ME (MAIN HEADING STYLE APPLIED)                             -->
+<!-- 🕷️ ABOUT ME (HEADING IN EXACT FONT YOU WANTED)                       -->
 <!-- ===================================================================== -->
 
 <h2 style="
@@ -66,6 +78,7 @@
   backdrop-filter:blur(12px);
   box-shadow:0 0 25px #ffffff33, inset 0 0 20px #000000aa;
   font-size:18px;
+  text-align:center;
   line-height:1.7;
   font-weight:700;
 ">
@@ -96,14 +109,14 @@ I enjoy building:
 <br/><br/>
 
 <!-- ===================================================================== -->
-<!-- 🎭 TECH STACK (MAIN HEADING STYLE APPLIED)                           -->
+<!-- 🎭 TECH STACK                                                         -->
 <!-- ===================================================================== -->
 
 <h2 style="
   font-size:64px;
   color:#fff;
-  font-weight:900;
   text-shadow:0 0 20px #ffffffdd;
+  font-weight:900;
   font-family:'Courier New';
 ">
 <strong>𝕿𝖊𝖈𝖍 𝕾𝖙𝖆𝖈𝖐</strong>
@@ -115,14 +128,14 @@ I enjoy building:
 <br/><br/>
 
 <!-- ===================================================================== -->
-<!-- 💀 LEETCODE (MAIN HEADING STYLE APPLIED)                             -->
+<!-- 💀 LEETCODE PROFILES                                                 -->
 <!-- ===================================================================== -->
 
 <h2 style="
   font-size:64px;
   color:#fff;
-  font-weight:900;
   text-shadow:0 0 20px #ffffffdd;
+  font-weight:900;
   font-family:'Courier New';
 ">
 <strong>𝕷𝖊𝖊𝖙𝕮𝖔𝖉𝖊 𝕻𝖗𝖔𝖋𝖎𝖑𝖊𝖘</strong>
@@ -134,7 +147,7 @@ I enjoy building:
 </a>
 
 <p style="font-size:16px; margin-top:10px; color:#aaa; font-weight:700;">
-Past accounts (banned for AI usage — transparency)
+Past accounts banned due to AI usage — transparency.
 </p>
 
 <img src="https://img.shields.io/badge/Account_1-111?style=for-the-badge&logo=leetcode&logoColor=white"/>
@@ -144,14 +157,14 @@ Past accounts (banned for AI usage — transparency)
 <br/><br/>
 
 <!-- ===================================================================== -->
-<!-- 🌐 SOCIAL LINKS (MAIN HEADING STYLE APPLIED)                          -->
+<!-- 🌐 SOCIAL LINKS                                                      -->
 <!-- ===================================================================== -->
 
 <h2 style="
   font-size:64px;
   color:#fff;
-  font-weight:900;
   text-shadow:0 0 20px #ffffffdd;
+  font-weight:900;
   font-family:'Courier New';
 ">
 <strong>𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖂𝖎𝖙𝖍 𝕸𝖊</strong>
@@ -167,7 +180,7 @@ Past accounts (banned for AI usage — transparency)
 <br/><br/>
 
 <!-- ===================================================================== -->
-<!-- ✨ CURRENT FOCUS (MAIN HEADING STYLE APPLIED)                         -->
+<!-- ✨ CURRENT FOCUS                                                     -->
 <!-- ===================================================================== -->
 
 <h2 style="
@@ -191,14 +204,14 @@ Past accounts (banned for AI usage — transparency)
 💠 Scalable Backend Systems <br/>
 💠 Clean Architecture <br/>
 💠 High-Level + Low-Level Design <br/>
-💠 Full Stack Engineering <br/>
+💠 Full Stack Development <br/>
 💠 System Design  
 </p>
 
 <br/><br/>
 
 <!-- ===================================================================== -->
-<!-- 🌊 FOOTER TAGLINE WITH NEON WAVES                                    -->
+<!-- 🌊 FOOTER — NOW WITH TYPEWRITER EFFECT                               -->
 <!-- ===================================================================== -->
 
 <div align="center" style="
@@ -220,7 +233,8 @@ Past accounts (banned for AI usage — transparency)
   font-weight:800;
   letter-spacing:1px;
 ">
-⚡ Crafting Scalable Code. Architecting Future-Ready Systems. ⚡
+
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=⚡+Crafting+Scalable+Code.+Architecting+Future-Ready+Systems.+⚡"/>
 </div>
 
 <br/><br/>
