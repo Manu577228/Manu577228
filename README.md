@@ -1,222 +1,197 @@
-<!-- =============================================================== -->
-<!-- 🔥 FULL-PAGE FANTASTIC NEON BLACK–WHITE WAVES BACKGROUND ADDED -->
-<!-- =============================================================== -->
-<body style="
-  margin:0;
-  padding:0;
-  background: 
-     radial-gradient(circle at 20% 30%, #ffffff15 0%, #000000 100%),
-     repeating-linear-gradient(
-        135deg,
-        rgba(0,0,0,0.9) 0px,
-        rgba(0,0,0,0.9) 10px,
-        rgba(255,255,255,0.04) 10px,
-        rgba(255,255,255,0.04) 20px
-     );
+<!-- ===================================================================== -->
+<!-- 🌌 FULL-PAGE NEON BLACK-WHITE WAVES BACKGROUND (STAYS FIXED)         -->
+<!-- ===================================================================== -->
+<div align="center" style="
+  padding: 40px;
+  background:
+    radial-gradient(circle at 20% 30%, rgba(255,255,255,0.18) 0%, #000 100%),
+    repeating-linear-gradient(
+       135deg,
+       rgba(0,0,0,0.90) 0px,
+       rgba(0,0,0,0.90) 14px,
+       rgba(255,255,255,0.05) 14px,
+       rgba(255,255,255,0.05) 28px
+    );
   background-attachment: fixed;
-  background-size: cover;
+  border-radius: 20px;
   color: #fff;
 ">
 
-<!-- ================================================================= -->
-<!-- YOUR ORIGINAL FILE STARTS — NOTHING CHANGED EXCEPT THE SECTION    -->
-<!-- ================================================================= -->
+<!-- =============================================================== -->
+<!-- 🖼️ PROFILE PICTURE WITH SOFT-NEON GLOW                          -->
+<!-- =============================================================== -->
+<img src="https://i.postimg.cc/SKBNcms1/Bharadwaj-removebg-preview.png" width="210"
+     style="
+       border-radius: 20px;
+       box-shadow:
+          0 0 25px #ffffff55,
+          0 0 60px #ffffff22;
+     "/>
 
-<p align="center">
-  <img src="https://i.postimg.cc/SKBNcms1/Bharadwaj-removebg-preview.png"
-       width="250"
-       style="
-          border-radius: 30px;
-          box-shadow:
-             18px 18px 30px #cfcfcf,
-             -18px -18px 30px #ffffff;
-       "/>
-</p>
+<br/><br/>
 
-<h1 align="center" style="font-size:50px; font-weight:900; color:#0A0A0A; letter-spacing:1px;">
-  <b>Bharadwaj BN</b>
+<!-- =============================================================== -->
+<!-- ✨ NAME TITLE                                                   -->
+<!-- =============================================================== -->
+<h1 style="font-size:55px; font-weight:900; letter-spacing:2px; margin-bottom:5px;">
+  <span style="
+    background: linear-gradient(90deg, #fff, #bbb);
+    -webkit-background-clip: text;
+    color: transparent;
+  ">
+    Bharadwaj BN
+  </span>
 </h1>
 
-<p align="center" style="font-size:18px; font-weight:600; color:#5A5A5A;">
-  Software Engineer • System Design • Full Stack • Scalable Backend Engineering
+<p style="font-size:20px; font-weight:600; color:#e5e5e5; margin-top:0;">
+  Software Engineer • System Design • Scalable Backend • Full Stack
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=008CFF&center=true&vCenter=true&width=850&height=45&lines=Software+Engineer;System+Design+Enthusiast;Full+Stack+Developer;Backend+Engineering+Specialist;Clean+Architecture+Mindset;DSA+%2B+Competitive+Programming"/>
-</p>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=750&height=45&lines=Backend+Engineer;System+Design+Enthusiast;Clean+Architecture+Advocate;Full+Stack+Developer;DSA+%2F+Competitive+Programming;High+Performance+Engineering"/>
 
----
+<br/><br/>
 
-# <p align="center" style="color:#0A0A0A; font-size:28px;"><b>About Me</b></p>
-
-<p align="center" style="
-    background:#F4F4F4;
-    padding: 30px 35px;
-    border-radius: 25px;
-    max-width: 780px;
-    margin: auto;
-    color:#222;
-    font-size:16.5px;
-    font-weight:500;
-    line-height:1.6;
-    box-shadow:
-       12px 12px 25px #dcdcdc,
-       -12px -12px 25px #ffffff;
+<!-- =============================================================== -->
+<!-- 🌟 ABOUT SECTION WITH COOL NEON CARD                            -->
+<!-- =============================================================== -->
+<div style="
+  max-width: 760px;
+  background: rgba(255,255,255,0.07);
+  padding: 30px;
+  border-radius: 20px;
+  backdrop-filter: blur(12px);
+  box-shadow:
+     0 0 15px #ffffff22,
+     inset 0 0 20px #00000088;
+  text-align:center;
+  color:#f1f1f1;
+  font-size:17px;
+  line-height:1.6;
 ">
-I am a software engineer who focuses on **clean architecture**, **scalable backend systems**, and **design-oriented engineering**.  
-My work prioritizes clarity, structure, and long-term maintainability.
+I build **clean**, **scalable**, and **high-performance engineering systems**  
+focused on **backend architecture**, **design principles**, and **system thinking**.
 
-<!-- =============================================================== -->
-<!-- ⭐⭐ CENTERED THE REQUESTED SECTION — NOTHING ELSE CHANGED ⭐⭐ -->
-<!-- =============================================================== -->
-<div align="center">
-<br/>
-<b>I enjoy building:</b><br/><br/>
+I love creating:
+
+<br/><br/>
 
 <b>• System-level backend architectures</b><br/>
-<b>• Full-stack applications with modern UI</b><br/>
-<b>• Neomorphic user experiences</b><br/>
-<b>• Clean, optimized, and testable code</b><br/><br/>
+<b>• Full-stack modern applications</b><br/>
+<b>• Neomorphic + futuristic UI experiences</b><br/>
+<b>• Clean, optimized & testable engineering solutions</b><br/><br/>
 
 <b>Always improving. Always learning. Always building.</b>
+</div>
+
 <br/><br/>
-</div>
+
 <!-- =============================================================== -->
+<!-- 🚀 LEETCODE PROFILES                                           -->
+<!-- =============================================================== -->
+<h2 style="color:white; letter-spacing:1px;">LeetCode Profiles</h2>
 
-</p>
+<a href="https://leetcode.com/u/mbbn/">
+  <img src="https://img.shields.io/badge/Active_Profile-000000?style=for-the-badge&logo=leetcode&logoColor=white"
+       style="border-radius:15px; box-shadow:0 0 12px #ffffff55;"/>
+</a>
 
----
+<br/><br/>
 
-# <p align="center" style="color:#0A0A0A; font-size:28px;"><b>LeetCode Profiles</b></p>
+<p style="font-size:14px; color:#bbb;">Previous banned accounts (transparency):</p>
 
-<p align="center" style="margin-bottom:20px;">
+<div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/Account_1-111?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Account_2-111?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Account_3-111?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</div>
 
-  <a href="https://leetcode.com/u/mbbn/">
-    <img src="https://img.shields.io/badge/Active_Profile-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=000000"
-         style="
-            padding:12px; 
-            border-radius:20px; 
-            box-shadow:10px 10px 25px #dcdcdc, -10px -10px 25px #ffffff;
-         "/>
-  </a>
+<br/><br/>
 
-</p>
+<!-- =============================================================== -->
+<!-- 🌐 SOCIAL LINKS                                                -->
+<!-- =============================================================== -->
+<h2 style="color:white;">Connect With Me</h2>
 
-<p align="center" style="font-size:14px; color:#555;">
-  Previous accounts banned due to excessive AI usage (listed for transparency):
-</p>
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
 
-<div align="center" style="
- display:flex;
- justify-content:center;
- gap:20px;
- flex-wrap:wrap;
- margin-top:10px;
-">
+<a href="https://www.linkedin.com/in/manu-bharadwaj-3507a345/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"
+       style="border-radius:15px;"/>
+</a>
 
-  <a href="https://leetcode.com/u/Manu-Bharadwaj-BN/">
-    <img src="https://img.shields.io/badge/Account_1-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=000000"
-         style="padding:12px; border-radius:20px; box-shadow:10px 10px 25px #dcdcdc, -10px -10px 25px #ffffff;"/>
-  </a>
+<a href="https://youtube.com/@code-with-Bharadwaj">
+  <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white"
+       style="border-radius:15px;"/>
+</a>
 
-  <a href="https://leetcode.com/u/manubn/">
-    <img src="https://img.shields.io/badge/Account_2-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=000000"
-         style="padding:12px; border-radius:20px; box-shadow:10px 10px 25px #dcdcdc, -10px -10px 25px #ffffff;"/>
-  </a>
+<a href="https://manu-bharadwaj-portfolio.vercel.app/portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
+       style="border-radius:15px;"/>
+</a>
 
-  <a href="https://leetcode.com/u/the_bharadwaj/">
-    <img src="https://img.shields.io/badge/Account_3-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=000000"
-         style="padding:12px; border-radius:20px; box-shadow:10px 10px 25px #dcdcdc, -10px -10px 25px #ffffff;"/>
-  </a>
+<a href="https://github.com/Manu577228">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"
+       style="border-radius:15px;"/>
+</a>
 
 </div>
 
----
+<br/><br/>
 
-# <p align="center" style="color:#0A0A0A; font-size:28px;"><b>Connect With Me</b></p>
+<!-- =============================================================== -->
+<!-- 💻 TECH STACK                                                  -->
+<!-- =============================================================== -->
+<h2 style="color:white;">Tech Stack</h2>
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,angular,spring,django,fastapi,postgres,mysql,mongodb,docker,git,githubactions,vercel"
+     height="90" style="filter: drop-shadow(0 0 8px #ffffff55);"/>
 
-  <a href="https://www.linkedin.com/in/manu-bharadwaj-3507a345/">
-    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000"
-         style="border-radius:20px; padding:12px; box-shadow:10px 10px 25px #dcdcdc, -10px -10px 25px #ffffff;"/>
-  </a>
+<br/><br/>
 
-  <a href="https://youtube.com/@code-with-Bharadwaj">
-    <img src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=000000"
-         style="border-radius:20px; padding:12px; box-shadow:10px 10px 25px #dcdcdc, -10px -10px 25px #ffffff;"/>
-  </a>
+<!-- =============================================================== -->
+<!-- ⚔️ COMPETITIVE PROGRAMMING                                    -->
+<!-- =============================================================== -->
+<h2 style="color:white;">Competitive Programming</h2>
 
-  <a href="https://manu-bharadwaj-portfolio.vercel.app/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000"
-         style="border-radius:20px; padding:12px; box-shadow:10px 10px 25px #dcdcdc, -10px -10px 25px #ffffff;"/>
-  </a>
-
-  <a href="https://github.com/Manu577228">
-    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"
-         style="border-radius:20px; padding:12px; box-shadow:10px 10px 25px #dcdcdc, -10px -10px 25px #ffffff;"/>
-  </a>
-
-</p>
-
----
-
-# <p align="center" style="color:#0A0A0A; font-size:28px;"><b>Tech Stack</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,angular,spring,django,fastapi,postgres,mysql,mongodb,docker,git,githubactions,vercel"
-       height="90"
-       style="filter: drop-shadow(2px 2px 6px #cfcfcf);"/>
-</p>
-
----
-
-# <p align="center" style="color:#0A0A0A; font-size:28px;"><b>Competitive Programming</b></p>
-
-<p align="center" style="
- max-width:700px; 
- margin:auto;
- font-size:17px;
- color:#333;
- font-weight:600;
- line-height:2;
- text-align:center;
+<div style="
+  max-width:650px;
+  margin:auto;
+  font-size:17px;
+  color:#e5e5e5;
+  line-height:2;
 ">
-<b>Languages:</b><br/>Java<br/>Python<br/><br/>
-<b>Strengths:</b><br/>Dynamic Programming<br/>Graphs<br/>Trees<br/>Segment Trees<br/>Greedy Approaches etc......<br/><br/>
-<b>Platforms:</b><br/>LeetCode<br/>Codeforces<br/><br/>
-<b>Focus:</b><br/>Clean Logic<br/>Optimization<br/>Reusable Templates
-</p>
+<b>Languages:</b> Java, Python  
+<b>Strengths:</b> Dynamic Programming, Graphs, Trees, Greedy, Segment Trees  
+<b>Platforms:</b> LeetCode, Codeforces  
+<b>Focus:</b> Clean Logic, Optimization, Reusable Templates  
+</div>
 
----
+<br/><br/>
 
-# <p align="center" style="color:#0A0A0A; font-size:28px;"><b>Current Focus</b></p>
+<!-- =============================================================== -->
+<!-- 🎯 CURRENT FOCUS                                               -->
+<!-- =============================================================== -->
+<h2 style="color:white;">Current Focus</h2>
 
-<p align="center" style="
- max-width:700px;
- margin:auto;
- font-size:17px;
- color:#333;
- font-weight:600;
- line-height:2;
- text-align:center;
+<div style="
+  max-width:650px;
+  margin:auto;
+  font-size:17px;
+  color:#e5e5e5;
+  line-height:2;
 ">
 <b>Scalable Backend Engineering</b><br/>
 <b>Clean Architecture</b><br/>
-<b>High-Level Design (HLD)</b><br/>
-<b>Low-Level Design (LLD)</b><br/>
+<b>High-Level & Low-Level Design (HLD + LLD)</b><br/>
 <b>Full Stack Development</b><br/>
 <b>System Design Fundamentals</b>
-</p>
+</div>
 
----
+<br/><br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=008CFF&center=true&vCenter=true&width=900&height=50&lines=Clean+Engineering+•+Future-Ready"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=850&height=45&lines=Clean+Engineering+•+Future-Ready+•+Neon+Tech"/>
 
-<!-- ================================================================ -->
-<!-- END OF YOUR ORIGINAL FILE — NOTHING ELSE MODIFIED               -->
-<!-- ================================================================ -->
+<br/><br/>
 
-</body>
+</div>
