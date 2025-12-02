@@ -1,3 +1,27 @@
+<!-- =============================================================== -->
+<!-- 🔥 FULL-PAGE FANTASTIC NEON BLACK–WHITE WAVES BACKGROUND ADDED -->
+<!-- =============================================================== -->
+<body style="
+  margin:0;
+  padding:0;
+  background: 
+     radial-gradient(circle at 20% 30%, #ffffff15 0%, #000000 100%),
+     repeating-linear-gradient(
+        135deg,
+        rgba(0,0,0,0.9) 0px,
+        rgba(0,0,0,0.9) 10px,
+        rgba(255,255,255,0.04) 10px,
+        rgba(255,255,255,0.04) 20px
+     );
+  background-attachment: fixed;
+  background-size: cover;
+  color: #fff;
+">
+
+<!-- ================================================================= -->
+<!-- YOUR ORIGINAL FILE STARTS — NOTHING CHANGED EXCEPT THE SECTION    -->
+<!-- ================================================================= -->
+
 <p align="center">
   <img src="https://i.postimg.cc/SKBNcms1/Bharadwaj-removebg-preview.png"
        width="250"
@@ -42,14 +66,23 @@
 I am a software engineer who focuses on **clean architecture**, **scalable backend systems**, and **design-oriented engineering**.  
 My work prioritizes clarity, structure, and long-term maintainability.
 
-I enjoy building:
+<!-- =============================================================== -->
+<!-- ⭐⭐ CENTERED THE REQUESTED SECTION — NOTHING ELSE CHANGED ⭐⭐ -->
+<!-- =============================================================== -->
+<div align="center">
+<br/>
+<b>I enjoy building:</b><br/><br/>
 
-<b>• System-level backend architectures  
-• Full-stack applications with modern UI  
-• Neomorphic user experiences  
-• Clean, optimized, and testable code</b>
+<b>• System-level backend architectures</b><br/>
+<b>• Full-stack applications with modern UI</b><br/>
+<b>• Neomorphic user experiences</b><br/>
+<b>• Clean, optimized, and testable code</b><br/><br/>
 
-Always improving. Always learning. Always building.
+<b>Always improving. Always learning. Always building.</b>
+<br/><br/>
+</div>
+<!-- =============================================================== -->
+
 </p>
 
 ---
@@ -181,3 +214,9 @@ Always improving. Always learning. Always building.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=008CFF&center=true&vCenter=true&width=900&height=50&lines=Clean+Engineering+•+Future-Ready"/>
 </p>
+
+<!-- ================================================================ -->
+<!-- END OF YOUR ORIGINAL FILE — NOTHING ELSE MODIFIED               -->
+<!-- ================================================================ -->
+
+</body>
