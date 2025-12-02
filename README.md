@@ -1,174 +1,158 @@
 <p align="center">
   <img src="https://i.postimg.cc/D0GdfvNB/Bharadwaj.jpg"
-       width="215"
-       style="border-radius: 22px; box-shadow:
-              0 0 35px rgba(0,102,255,0.35),
-              0 0 80px rgba(0,0,0,0.6),
-              inset 0 0 25px rgba(255,255,255,0.07);
-              backdrop-filter: blur(12px);
-       "/>
+       width="230"
+       style="border-radius: 50%; box-shadow:
+              0 0 40px #00E5FF,
+              0 0 80px #0066FF,
+              0 0 120px #6A00FF;
+              filter: saturate(140%);
+              "/>
 </p>
 
-<h1 align="center" style="color:#00A2FF; font-size:46px; font-weight:700;">
-  Bharadwaj BN
+<h1 align="center" style="font-size:52px; font-weight:900; color:#00E5FF; text-shadow:0 0 15px #0066FF;">
+  ⚡ B H A R A D W A J ⚡
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00A2FF&center=true&vCenter=true&width=900&lines=Software+Engineer;System+Design+Engineer;Full+Stack+Developer;Backend+Specialist;UI%2FUX+Inspired+Engineer;Designing+Beautiful+%2B+Scalable+Systems;Clean+Architecture+Advocate"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&center=true&vCenter=true&width=800&height=45&lines=Full+Stack+Wizard+🧙‍♂️;System+Design+Addict+🤖;Neon+Powered+Engineer+⚡;UI%2FUX+Futurist+🎨;Backend+Beast+🔥;I+Code+Like+It's+3025+🚀"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━-00A2FF?style=flat&color=000000" width="380">
-</p>
-
-<p align="center" style="color:#D8D8D8; font-size:15px;">
-  Engineering meets UX — Building scalable systems with clarity, aesthetics, and precision.
+  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━-00E5FF?style=flat&color=000000" width="430">
 </p>
 
 ---
 
-# 🧊 About Me
+# 🌈 **Who Am I?**
 
-I am Bharadwaj — a software engineer who brings together:
+I'm **Bharadwaj**,  
+the engineer who mixes:
 
-**Engineering × Design × Scalability**
+🧠 **Engineering**  
+🎨 **Design**  
+⚡ **Funk**  
+🚀 **Energy**  
+🔥 **Chaos**  
+💙 **Vibes**  
 
-I craft:
+into one **unforgettable full-stack experience**.
 
-• Clean backend architectures  
-• Minimal, premium frontend experiences  
-• High-performance APIs  
-• Full-stack systems with aesthetic structure  
-• UX-inspired engineering flows  
+I don't *just* build software —  
+I build **FEELINGS**, **VIBES**, **EXPERIENCES**, **ENERGY**.
 
-My work is defined by three principles:
-
-**Simplicity. Performance. Beautiful Execution.**
+Systems so clean they sparkle.  
+UIs so crisp that designers cry.  
+Backends so scalable NASA might use them.
 
 ---
 
-# 🧩 LeetCode Profiles
+# 🔥 **LeetCode Saga**
 
-### Active Profile  
+### ⭐ Active Profile
 <a href="https://leetcode.com/u/mbbn/">
-  <img src="https://img.shields.io/badge/mbbn-000000?style=for-the-badge&logo=leetcode&logoColor=00A2FF"/>
+  <img src="https://img.shields.io/badge/mbbn-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=00E5FF"/>
 </a>
 
-### Banned Profiles (Excessive AI Usage)
+### 🚫 Banned for "Excessive AI Usage" (Certified Legend Arc)
 
 <div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
 
-  <a href="https://leetcode.com/u/Manu-Bharadwaj-BN/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Account%201-000000?style=for-the-badge&logo=leetcode&logoColor=00A2FF"
-         style="margin:10px; border-radius:12px;"/>
+  <a href="https://leetcode.com/u/Manu-Bharadwaj-BN/">
+    <img src="https://img.shields.io/badge/Account%201-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=00E5FF"/>
   </a>
 
-  <a href="https://leetcode.com/u/manubn/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Account%202-000000?style=for-the-badge&logo=leetcode&logoColor=00A2FF"
-         style="margin:10px; border-radius:12px;"/>
+  <a href="https://leetcode.com/u/manubn/">
+    <img src="https://img.shields.io/badge/Account%202-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=00E5FF"/>
   </a>
 
-  <a href="https://leetcode.com/u/the_bharadwaj/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Account%203-000000?style=for-the-badge&logo=leetcode&logoColor=00A2FF"
-         style="margin:10px; border-radius:12px;"/>
+  <a href="https://leetcode.com/u/the_bharadwaj/">
+    <img src="https://img.shields.io/badge/Account%203-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=00E5FF"/>
   </a>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🚀 **Where I Live Online**
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/manu-bharadwaj-3507a345/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00A2FF"/>
+    <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
   </a>
 
   <a href="https://youtube.com/@code-with-Bharadwaj">
-    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00A2FF"/>
+    <img src="https://img.shields.io/badge/YouTube-050505?style=for-the-badge&logo=youtube&logoColor=00E5FF"/>
   </a>
 
   <a href="https://manu-bharadwaj-portfolio.vercel.app/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00A2FF"/>
+    <img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=00E5FF"/>
   </a>
 
   <a href="https://github.com/Manu577228">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00A2FF"/>
+    <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00E5FF"/>
   </a>
-
 </p>
 
 ---
 
-# ⚙️ Technical Expertise
-
-### Architecture  
-Distributed Systems  
-API Design  
-Microservices  
-High Availability Systems  
-Load Balancing, Caching, Rate Limiting  
-Clean Architecture / DDD  
-
-### Backend  
-Java (Spring Boot)  
-Python (FastAPI, Django)  
-Database Schema Design  
-Query Optimization  
-Secure, Scalable APIs  
-
-### Frontend  
-React + TypeScript  
-Angular  
-Design-Driven UI Architecture  
-
----
-
-# 🛠 Tech Stack
+# 💥 **Skillset (Neon Edition)**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,angular,spring,django,fastapi,postgres,mysql,mongodb,docker,git,githubactions,vercel,netlify"
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,angular,spring,django,fastapi,postgres,mysql,mongodb,docker,git,githubactions"
        height="95"
-       style="filter: drop-shadow(0 0 8px rgba(0,162,255,0.4));"/>
+       style="filter: drop-shadow(0 0 12px #00E5FF);"/>
 </p>
 
 ---
 
-# 🧠 Competitive Programming
+# 📡 **What I Actually Do**
 
-Java + Python  
-DP, Graphs, Trees, Segment Trees, Greedy  
-50+ reusable templates  
-Active on Codeforces, LeetCode, CodeChef  
-DSA educator on YouTube  
-
----
-
-# 🎯 Current Focus
-
-Full-stack engineering with Apple-like clarity  
-Glassmorphic UI engineering  
-Backend scalability  
-Advanced system design  
-Clean engineering content  
+💙 Build backends that survive the apocalypse  
+💙 Craft UIs that look like sci-fi movie interfaces  
+💙 Architect systems like a digital city planner  
+💙 Teach code in a way your grandma would understand  
+💙 Write logic cleaner than your shampoo  
+💙 Debug with telepathic intuition  
 
 ---
 
-# 🤝 Let’s Talk
+# 🧠 **Competitive Programming**
+
+Languages: **Java ⚡ Python**  
+Strengths:  
+🔥 Graphs  
+🔥 DP  
+🔥 Segment Trees  
+🔥 Greedy  
+🔥 Thinking like a villain  
+
+Templates: **50+ OP reusable scripts**  
+Platforms: CF, LC, CC  
+
+---
+
+# 🎯 **Currently Leveling Up**
+
+⚡ Building futuristic interface-style apps  
+⚡ Mastering advanced system design  
+⚡ Scaling backends like crazy  
+⚡ Crafting UI that feels alive  
+⚡ Creating giga-brain engineering content  
+
+---
+
+# ☎️ **Let's Talk**
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/manu-bharadwaj-3507a345/">
-    <img src="https://img.shields.io/badge/Talk%20To%20Me-000000?style=for-the-badge&logo=linkedin&logoColor=00A2FF"/>
+    <img src="https://img.shields.io/badge/Talk%20To%20Me-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
   </a>
 
   <a href="https://manu-bharadwaj-portfolio.vercel.app/portfolio">
-    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00A2FF"/>
+    <img src="https://img.shields.io/badge/My%20Projects-050505?style=for-the-badge&logo=vercel&logoColor=00E5FF"/>
   </a>
-
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=85&section=footer&text=Design+Focused+Code+•+Engineer+Who+Builds+Experiences+•+Crafting+Systems+That+Scale&fontSize=18&fontColor=00A2FF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001122,100:0066FF&height=90&section=footer&text=I+Don't+Just+Code+•+I+Create+Digital+Vibes&fontSize=20&fontColor=00E5FF"/>
 </p>
