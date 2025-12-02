@@ -45,7 +45,8 @@ My work prioritizes clarity, structure, and long-term maintainability.
 I enjoy building:
 
 <b>• System-level backend architectures  
-• Full-stack applications with modern UI   
+• Full-stack applications with modern UI  
+• Neomorphic user experiences  
 • Clean, optimized, and testable code</b>
 
 Always improving. Always learning. Always building.
