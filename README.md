@@ -36,17 +36,19 @@
 <!-- ===================================================================== -->
 
 <h1 style="
-  font-size:70px;
+  font-size:200px;
   font-weight:900;
-  margin-bottom:5px;
-  background: linear-gradient(90deg,#fff,#ccc,#fff);
-  -webkit-background-clip:text;
-  color: transparent;
-  text-shadow: 0 0 12px #ffffff99;
-  letter-spacing:3px;
+  letter-spacing:30px;
+  text-shadow:
+     0 0 20px #ffffffdd,
+     0 0 45px #ffffff88,
+     0 0 80px #ffffff55;
+  font-family:'Courier New';
+  margin-bottom:40px;
 ">
-<strong>𝓜𝓪𝓷𝓾 𝓑𝓱𝓪𝓻𝓪𝓭𝔀𝓪𝓳</strong>
+<strong>𝕸 𝖆 𝖓 𝖚 &nbsp;&nbsp; 𝕭 𝖍 𝖆 𝖗 𝖆 𝖉 𝖜 𝖆 𝖏</strong>
 </h1>
+
 
 <p style="font-size:22px; color:#f0f0f0; font-style:italic; font-weight:700;">
 <strong>Software Engineer • System Design • Scalable Backend</strong>
