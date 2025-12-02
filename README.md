@@ -37,7 +37,7 @@
 </h1>
 
 <p style="font-size:22px; color:#f0f0f0; font-style:italic; font-weight:700;">
-<strong>𝓢𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻 • 𝓢𝔂𝓼𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷 • 𝓢𝓬𝓪𝓵𝓪𝓫𝓵𝓮 𝓑𝓪𝓬𝓴𝓮𝓷𝓭</strong>
+<strong>Software Engineer • System Design • Scalable Backend</strong>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=900&height=45&lines=⚡+Backend+Architect+⚡;👁️‍🗨️+System+Design+Specialist+👁️‍🗨️;🔥+Full+Stack+Developer+🔥;💀+Clean+Architecture+Mindset+💀;⚔️+Competitive+Programmer+⚔️"/>
@@ -45,17 +45,17 @@
 <br/><br/>
 
 <!-- ===================================================================== -->
-<!-- 🕷️ ABOUT ME - HORRIFIC MAIN HEADING                                  -->
+<!-- 🕷️ ABOUT ME (MAIN HEADING STYLE APPLIED)                             -->
 <!-- ===================================================================== -->
 
 <h2 style="
-  font-size:45px;
+  font-size:64px;
   color:#fff;
   font-weight:900;
-  text-shadow:0 0 12px #fff;
-  font-family: 'Courier New';
+  text-shadow:0 0 20px #ffffffdd;
+  font-family:'Courier New';
 ">
-<strong>𝕬𝖇𝖔𝖚𝖙 𝕸𝖊 👁️</strong>
+<strong>𝕬𝖇𝖔𝖚𝖙 𝕸𝖊</strong>
 </h2>
 
 <div style="
@@ -69,22 +69,23 @@
   line-height:1.7;
   font-weight:700;
 ">
+
 <p style="color:#e5e5e5; font-size:19px;">
 I build <strong>high-performance backend systems</strong>,  
 design <strong>clean engineering architectures</strong>,  
 and craft <strong>future-ready software</strong> with a blend of  
-<strong>elegance, logic, and pure engineering energy</strong>.
+<strong>clarity, scalability, and clean engineering energy</strong>.
 </p>
 
 <h3 style="font-size:28px; font-style:italic; color:#fff; font-weight:900;">
-𝓘 𝓮𝓷𝓳𝓸𝔂 𝓫𝓾𝓲𝓵𝓭𝓲𝓷𝓰:
+I enjoy building:
 </h3>
 
 <p style="font-size:20px; font-weight:700;">
-✨ 𝓢𝔂𝓼𝓽𝓮𝓶-𝓵𝓮𝓿𝓮𝓵 𝓑𝓪𝓬𝓴𝓮𝓷𝓭 𝓐𝓻𝓬𝓱𝓲𝓽𝓮𝓬𝓽𝓾𝓻𝓮𝓼 <br/>
-✨ 𝓕𝓾𝓵𝓵-𝓼𝓽𝓪𝓬𝓴 𝓜𝓸𝓭𝓮𝓻𝓷 𝓤𝓘𝓼 <br/>
-✨ 𝓝𝓮𝓸𝓶𝓸𝓻𝓹𝓱𝓲𝓬 𝓕𝓾𝓽𝓾𝓻𝓲𝓼𝓽𝓲𝓬 𝓤𝓧 <br/>
-✨ 𝓒𝓵𝓮𝓪𝓷, 𝓞𝓹𝓽𝓲𝓶𝓲𝔃𝓮𝓭 & 𝓣𝓮𝓼𝓽𝓪𝓫𝓵𝓮 𝓒𝓸𝓭𝓮 <br/><br/>
+✨ System-level Backend Architectures <br/>
+✨ Full-stack Modern UIs <br/>
+✨ Neomorphic Futuristic UX <br/>
+✨ Clean, Optimized & Testable Code <br/><br/>
 
 <strong>💫 Always improving.  
 💫 Always learning.  
@@ -95,17 +96,17 @@ and craft <strong>future-ready software</strong> with a blend of
 <br/><br/>
 
 <!-- ===================================================================== -->
-<!-- 🎭 TECH STACK - HORRIFIC MAIN HEADING                               -->
+<!-- 🎭 TECH STACK (MAIN HEADING STYLE APPLIED)                           -->
 <!-- ===================================================================== -->
 
 <h2 style="
-  font-size:50px;
+  font-size:64px;
   color:#fff;
-  font-family: 'Courier New';
-  text-shadow:0 0 12px #ffffffdd;
   font-weight:900;
+  text-shadow:0 0 20px #ffffffdd;
+  font-family:'Courier New';
 ">
-<strong>🌀 𝕿𝖊𝖈𝖍 𝕾𝖙𝖆𝖈𝖐 🌀</strong>
+<strong>𝕿𝖊𝖈𝖍 𝕾𝖙𝖆𝖈𝖐</strong>
 </h2>
 
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,angular,spring,django,fastapi,postgres,mysql,mongodb,docker,git,githubactions,vercel"
@@ -114,17 +115,17 @@ and craft <strong>future-ready software</strong> with a blend of
 <br/><br/>
 
 <!-- ===================================================================== -->
-<!-- 💀 LEETCODE - HORRIFIC MAIN HEADING                                   -->
+<!-- 💀 LEETCODE (MAIN HEADING STYLE APPLIED)                             -->
 <!-- ===================================================================== -->
 
 <h2 style="
-  font-size:48px;
+  font-size:64px;
   color:#fff;
-  font-family:'Courier New';
-  text-shadow:0 0 12px #fff;
   font-weight:900;
+  text-shadow:0 0 20px #ffffffdd;
+  font-family:'Courier New';
 ">
-<strong>💀 𝕷𝖊𝖊𝖙𝕮𝖔𝖉𝖊 𝕻𝖗𝖔𝖋𝖎𝖑𝖊𝖘 💀</strong>
+<strong>𝕷𝖊𝖊𝖙𝕮𝖔𝖉𝖊 𝕻𝖗𝖔𝖋𝖎𝖑𝖊𝖘</strong>
 </h2>
 
 <a href="https://leetcode.com/u/mbbn/">
@@ -133,7 +134,7 @@ and craft <strong>future-ready software</strong> with a blend of
 </a>
 
 <p style="font-size:16px; margin-top:10px; color:#aaa; font-weight:700;">
-Past accounts (banned for AI usage — transparency 🩶)
+Past accounts (banned for AI usage — transparency)
 </p>
 
 <img src="https://img.shields.io/badge/Account_1-111?style=for-the-badge&logo=leetcode&logoColor=white"/>
@@ -143,11 +144,17 @@ Past accounts (banned for AI usage — transparency 🩶)
 <br/><br/>
 
 <!-- ===================================================================== -->
-<!-- 🌐 SOCIALS - HORRIFIC MAIN HEADING                                   -->
+<!-- 🌐 SOCIAL LINKS (MAIN HEADING STYLE APPLIED)                          -->
 <!-- ===================================================================== -->
 
-<h2 style="font-size:50px; color:white; text-shadow:0 0 10px white; font-weight:900;">
-<strong>🌐 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝓦𝓲𝓽𝓱 𝓜𝓮</strong>
+<h2 style="
+  font-size:64px;
+  color:#fff;
+  font-weight:900;
+  text-shadow:0 0 20px #ffffffdd;
+  font-family:'Courier New';
+">
+<strong>𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖂𝖎𝖙𝖍 𝕸𝖊</strong>
 </h2>
 
 <div style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
@@ -160,18 +167,17 @@ Past accounts (banned for AI usage — transparency 🩶)
 <br/><br/>
 
 <!-- ===================================================================== -->
-<!-- ✨ CURRENT FOCUS - HORRIFIC MAIN HEADING                              -->
+<!-- ✨ CURRENT FOCUS (MAIN HEADING STYLE APPLIED)                         -->
 <!-- ===================================================================== -->
 
 <h2 style="
-  font-size:48px;
+  font-size:64px;
   color:white;
-  font-family:'Georgia';
-  font-style:italic;
-  text-shadow:0 0 10px #fff;
+  text-shadow:0 0 20px white;
   font-weight:900;
+  font-family:'Courier New';
 ">
-<strong>✨ 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓕𝓸𝓬𝓾𝓼</strong>
+<strong>𝕮𝖚𝖗𝖗𝖊𝖓𝖙 𝕱𝖔𝖈𝖚𝖘</strong>
 </h2>
 
 <p style="
@@ -182,16 +188,40 @@ Past accounts (banned for AI usage — transparency 🩶)
   line-height:2;
   font-weight:700;
 ">
-💠 𝓢𝓬𝓪𝓵𝓪𝓫𝓵𝓮 𝓑𝓪𝓬𝓴𝓮𝓷𝓭 𝓢𝔂𝓼𝓽𝓮𝓶𝓼 <br/>
-💠 𝓒𝓵𝓮𝓪𝓷 𝓐𝓻𝓬𝓱𝓲𝓽𝓮𝓬𝓽𝓾𝓻𝓮 <br/>
-💠 𝓗𝓛𝓓 + 𝓛𝓛𝓓 <br/>
-💠 𝓕𝓾𝓵𝓵 𝓢𝓽𝓪𝓬𝓴 <br/>
-💠 𝓢𝔂𝓼𝓽𝓮𝓶 𝓓𝓮𝓼𝓲𝓰𝓷  
+💠 Scalable Backend Systems <br/>
+💠 Clean Architecture <br/>
+💠 High-Level + Low-Level Design <br/>
+💠 Full Stack Engineering <br/>
+💠 System Design  
 </p>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=850&height=45&lines=⚡+𝙁𝙪𝙩𝙪𝙧𝙚-𝙍𝙚𝙖𝙙𝙮+•+𝙉𝙚𝙤𝙣+𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜+⚡"/>
+<!-- ===================================================================== -->
+<!-- 🌊 FOOTER TAGLINE WITH NEON WAVES                                    -->
+<!-- ===================================================================== -->
+
+<div align="center" style="
+  margin-top:50px;
+  padding:25px;
+  background:
+     radial-gradient(circle at 30% 50%, rgba(255,255,255,0.12), #000 100%),
+     repeating-linear-gradient(
+        135deg,
+        rgba(0,0,0,0.95) 0px,
+        rgba(0,0,0,0.95) 14px,
+        rgba(255,255,255,0.05) 14px,
+        rgba(255,255,255,0.05) 28px
+     );
+  border-radius:20px;
+  box-shadow:0 0 20px #ffffff44, inset 0 0 25px #000000aa;
+  color:#fff;
+  font-size:22px;
+  font-weight:800;
+  letter-spacing:1px;
+">
+⚡ Crafting Scalable Code. Architecting Future-Ready Systems. ⚡
+</div>
 
 <br/><br/>
 
