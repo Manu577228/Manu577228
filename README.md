@@ -1,18 +1,25 @@
-<!-- MINIMAL APPLE-STYLE HEADER -->
+<!-- LUXURY PROFILE IMAGE WITH GOLDEN GLOW -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Bharadwaj%20BN&fontSize=60&fontColor=000000&fontAlignY=55" />
+  <img src="https://i.postimg.cc/BZjFGv9W/Manu-Pic.jpg" 
+       width="180" 
+       style="border-radius: 50%; box-shadow: 0px 0px 25px 5px rgba(255, 215, 0, 0.5);" />
+</p>
+
+<!-- NAME HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=Bharadwaj%20BN&fontSize=55&fontColor=FFD700&fontAlignY=55" />
 </p>
 
 <!-- GOLD DIVIDER -->
 <p align="center">
-  <img src="https://img.shields.io/badge/───────────────-FFD700?style=flat-square&labelColor=FFFFFF&color=000000" width="300">
+  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━-FFD700?style=flat&color=000000" width="350">
 </p>
 
-<!-- APPLE-MINIMAL SUBTITLE -->
+<!-- SUBTITLE -->
 <p align="center">
-  <b><span style="font-size: 22px; color: black;">Software Engineer</span></b><br/>
-  <span style="font-size: 16px; color: #5A5A5A;">
-    System Design • Distributed Systems • Full-Stack Engineering • Competitive Programming
+  <span style="font-size: 20px; color: #E5C158;"><b>Software Engineer</b></span><br/>
+  <span style="font-size: 14px; color: #C0C0C0;">
+    Systems Architecture • Full-Stack Engineering • Competitive Programming
   </span>
 </p>
 
@@ -20,146 +27,142 @@
 
 ---
 
-# 🖤 About Me
+# 🏛️ About Me
 
-I’m **Bharadwaj**, a Software Engineer focused on **clarity, scalability, and long-term design**.  
-I build **clean, maintainable, and high-performance systems** that follow engineering best practices.
+Elegance. Precision. Engineering.
 
-My approach:  
-- Minimal  
-- Intentional  
-- Elegant  
-- Highly engineered  
+I’m **Bharadwaj**, a Software Engineer who builds systems the way luxury watches are made —  
+with **craftsmanship**, **accuracy**, and **timeless reliability**.
 
-I believe good engineering is quiet, reliable, efficient, and built with purpose.
+I specialize in:
+
+- Scalable backend systems  
+- Minimal + premium frontend engineering  
+- Distributed architectures  
+- Clean code & performance engineering  
+
+I value clarity, precision, and long-term maintainability.
 
 ---
 
 # 🧩 LeetCode Profiles  
 
-### ⭐ **Active Profile**
-[![LeetCode](https://img.shields.io/badge/LeetCode-Active_Profile-000000?style=for-the-badge&logo=leetcode&logoColor=FFD700)](https://leetcode.com/u/mbbn/)  
+### ⭐ **Primary Active Profile**
+[![LeetCode](https://img.shields.io/badge/LeetCode-Active_Profile-FFD700?style=for-the-badge&logo=leetcode&logoColor=000000&labelColor=000000)](https://leetcode.com/u/mbbn/)  
 **`mbbn`**
 
-### ⚠️ **Banned – Excessive AI Usage**  
-(Mentioned for transparency; these accounts were banned by LeetCode AI-detection)
+### ⚠️ **Banned — Excessive AI Usage**  
+Listed for transparency:
 
-[![LeetCode](https://img.shields.io/badge/Banned-Excessive_AI_Usage-000000?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFD700)](https://leetcode.com/u/Manu-Bharadwaj-BN/)  
+[![LeetCode](https://img.shields.io/badge/BANNED-Excessive_AI_Usage-000000?style=for-the-badge&logo=leetcode&logoColor=FFD700&labelColor=000000)](https://leetcode.com/u/Manu-Bharadwaj-BN/)  
 `Manu-Bharadwaj-BN`
 
-[![LeetCode](https://img.shields.io/badge/Banned-Excessive_AI_Usage-000000?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFD700)](https://leetcode.com/u/manubn/)  
+[![LeetCode](https://img.shields.io/badge/BANNED-Excessive_AI_Usage-000000?style=for-the-badge&logo=leetcode&logoColor=FFD700&labelColor=000000)](https://leetcode.com/u/manubn/)  
 `manubn`
 
-[![LeetCode](https://img.shields.io/badge/Banned-Excessive_AI_Usage-000000?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFD700)](https://leetcode.com/u/the_bharadwaj/)  
+[![LeetCode](https://img.shields.io/badge/BANNED-Excessive_AI_Usage-000000?style=for-the-badge&logo=leetcode&logoColor=FFD700&labelColor=000000)](https://leetcode.com/u/the_bharadwaj/)  
 `the_bharadwaj`
 
 ---
 
-# 🌐 Links  
-
+# 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/manu-bharadwaj-3507a345/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
   </a>
   <a href="https://youtube.com/@code-with-Bharadwaj">
-    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" />
+    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FFD700" />
   </a>
   <a href="https://manu-bharadwaj-portfolio.vercel.app/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FFD700" />
   </a>
   <a href="https://github.com/Manu577228">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  </a>
-  <a href="https://codeforces.com/profile/MBBN">
-    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=FFD700" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700" />
   </a>
 </p>
 
 ---
 
-# ⚡ Technical Focus  
+# ⚙️ Technical Expertise  
 
-## 🏛 Architecture & Design  
-- Distributed Systems  
-- Clean Architecture  
-- Microservices & Modular Monoliths  
-- High-Availability API Design  
-- Caching, Load Balancing, Rate Limiting  
-- Observability (Tracing • Logging • Monitoring)  
+## 🏗️ Architectural Engineering  
+- Distributed systems  
+- Microservices & modular monoliths  
+- High-availability API systems  
+- Load balancing, caching, rate limiting  
+- Observability (logs, metrics, tracing)  
+- Clean Architecture, DDD  
 
-## 🛠 Backend Engineering  
-- Java (Spring Boot)  
-- Python (FastAPI / Django)  
-- SQL/NoSQL Design  
-- API Design Patterns  
-- Performance-Oriented Engineering  
+## 🔧 Backend Engineering  
+- **Java (Spring Boot)**  
+- **Python (FastAPI / Django)**  
+- Scalable REST API development  
+- Database schema & optimization  
 
 ## 🎨 Frontend Engineering  
-- React + TypeScript  
+- **React + TypeScript**  
 - Angular  
-- Component Architecture  
-- Modern UI Patterns  
+- Component-driven development  
+- Premium UI / UX architecture  
 
 ---
 
-# 🖥 Tech Stack  
+# 🛠️ Tech Stack  
 
-### Languages  
+## Languages  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,ts" height="80"/>
 </p>
 
-### Frameworks  
+## Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,react,angular,django,fastapi" height="80"/>
+  <img src="https://skillicons.dev/icons?i=spring,react,angular,fastapi,django" height="80"/>
 </p>
 
-### Databases  
+## Databases  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" height="80"/>
 </p>
 
-### DevOps  
+## DevOps  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions,jenkins,docker,git" height="80"/>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,jenkins,git,vercel,netlify" height="80"/>
 </p>
 
 ---
 
 # 🧠 Competitive Programming  
 
-- Java & Python problem-solving  
-- Graphs • DP • Segment Trees • Strings • Greedy  
-- Codeforces | LeetCode | CodeChef  
-- 50+ reusable algorithm templates  
-- Teach algorithms on YouTube  
+- Java + Python problem solving  
+- Focus areas: Graphs, DP, Segment Trees, Math  
+- Active on Codeforces, LeetCode, CodeChef  
+- 50+ reusable templates  
+- DSA educator on YouTube  
 
 ---
 
-# 🎯 Currently Working On  
+# 🎯 Current Work  
 
-- Apple-minimal system design guides  
-- Java DSA template expansion (50+)  
+- Expanding **Java algorithm templates**  
 - Full-stack real-world projects  
-- High-level & low-level design patterns  
-- YouTube educational content  
+- System design content (HL + LL)  
+- Minimal premium-style engineering content  
 
 ---
 
-# 🤝 Let’s Connect  
-
+# 🤝 Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/manu-bharadwaj-3507a345/">
-    <img src="https://img.shields.io/badge/Message%20on%20LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/Message%20Me-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
   </a>
   <a href="https://manu-bharadwaj-portfolio.vercel.app/portfolio">
-    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FFD700" />
   </a>
 </p>
 
 ---
 
-<!-- FOOTER -->
+<!-- LUXURY FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=footer&text=%20&fontSize=24" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=footer&text=Crafted%20with%20Precision%20•%20Inspired%20by%20Luxury&fontSize=20&fontColor=FFD700" />
 </p>
