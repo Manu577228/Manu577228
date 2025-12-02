@@ -20,7 +20,7 @@
 ">
 
 <!-- ===================================================================== -->
-<!-- 🖼️ YOUR IMAGE (ADDED BACK, WITH NEON GLOW)                           -->
+<!-- 🖼️ YOUR IMAGE (WITH NEON GLOW)                                       -->
 <!-- ===================================================================== -->
 
 <img src="https://i.postimg.cc/SKBNcms1/Bharadwaj-removebg-preview.png"
@@ -49,7 +49,6 @@
 <strong>𝕸 𝖆 𝖓 𝖚 &nbsp;&nbsp; 𝕭 𝖍 𝖆 𝖗 𝖆 𝖉 𝖜 𝖆 𝖏</strong>
 </h1>
 
-
 <p style="font-size:22px; color:#f0f0f0; font-style:italic; font-weight:700;">
 <strong>Software Engineer • System Design • Scalable Backend</strong>
 </p>
@@ -59,7 +58,7 @@
 <br/><br/>
 
 <!-- ===================================================================== -->
-<!-- 🕷️ ABOUT ME (HEADING IN EXACT FONT YOU WANTED)                       -->
+<!-- 🕷️ ABOUT ME                                                           -->
 <!-- ===================================================================== -->
 
 <h2 style="
@@ -86,7 +85,7 @@
 ">
 
 <p style="color:#e5e5e5; font-size:19px;">
-I build <strong>high-performance backend systems</strong>,  
+I build <strong>high-performance frontend & backend systems</strong>,  
 design <strong>clean engineering architectures</strong>,  
 and craft <strong>future-ready software</strong> with a blend of  
 <strong>clarity, scalability, and clean engineering energy</strong>.
@@ -99,7 +98,6 @@ I enjoy building:
 <p style="font-size:20px; font-weight:700;">
 ✨ System-level Backend Architectures <br/>
 ✨ Full-stack Modern UIs <br/>
-✨ Neomorphic Futuristic UX <br/>
 ✨ Clean, Optimized & Testable Code <br/><br/>
 
 <strong>💫 Always improving.  
@@ -130,7 +128,7 @@ I enjoy building:
 <br/><br/>
 
 <!-- ===================================================================== -->
-<!-- 💀 LEETCODE PROFILES                                                 -->
+<!-- 💀 LEETCODE PROFILES (UPDATED WITH REAL LINKS)                        -->
 <!-- ===================================================================== -->
 
 <h2 style="
@@ -143,6 +141,7 @@ I enjoy building:
 <strong>𝕷𝖊𝖊𝖙𝕮𝖔𝖉𝖊 𝕻𝖗𝖔𝖋𝖎𝖑𝖊𝖘</strong>
 </h2>
 
+<!-- ACTIVE -->
 <a href="https://leetcode.com/u/mbbn/">
   <img src="https://img.shields.io/badge/ACTIVE_PROFILE-000?style=for-the-badge&logo=leetcode&logoColor=white"
        style="border-radius:12px; box-shadow:0 0 12px #ffffff99;"/>
@@ -152,14 +151,23 @@ I enjoy building:
 Past accounts banned due to AI usage — transparency.
 </p>
 
-<img src="https://img.shields.io/badge/Account_1-111?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Account_2-111?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Account_3-111?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<!-- BANNED ACCOUNTS WITH REAL LINKS -->
+<a href="https://leetcode.com/u/Manu-Bharadwaj-BN/">
+  <img src="https://img.shields.io/badge/LeetCode_1_(Banned)-111?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/manubn/">
+  <img src="https://img.shields.io/badge/LeetCode_2_(Banned)-111?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/the_bharadwaj/">
+  <img src="https://img.shields.io/badge/LeetCode_3_(Banned)-111?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 <br/><br/>
 
 <!-- ===================================================================== -->
-<!-- 🌐 SOCIAL LINKS                                                      -->
+<!-- 🌐 SOCIAL LINKS (NOW CLICKABLE)                                      -->
 <!-- ===================================================================== -->
 
 <h2 style="
@@ -173,10 +181,23 @@ Past accounts banned due to AI usage — transparency.
 </h2>
 
 <div style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <a href="https://www.linkedin.com/in/manu-bharadwaj-3507a345">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.youtube.com/@code-with-Bharadwaj">
+    <img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Manu577228">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://manu-bharadwaj-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
 </div>
 
 <br/><br/>
@@ -213,7 +234,7 @@ Past accounts banned due to AI usage — transparency.
 <br/><br/>
 
 <!-- ===================================================================== -->
-<!-- 🌊 FOOTER — NOW WITH TYPEWRITER EFFECT                               -->
+<!-- 🌊 FOOTER — TYPEWRITER EFFECT                                        -->
 <!-- ===================================================================== -->
 
 <div align="center" style="
