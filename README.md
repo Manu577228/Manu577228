@@ -147,23 +147,6 @@ I enjoy building:
        style="border-radius:12px; box-shadow:0 0 12px #ffffff99;"/>
 </a>
 
-<p style="font-size:16px; margin-top:10px; color:#aaa; font-weight:700;">
-Past accounts banned due to AI usage — transparency.
-</p>
-
-<!-- BANNED ACCOUNTS WITH REAL LINKS -->
-<a href="https://leetcode.com/u/Manu-Bharadwaj-BN/">
-  <img src="https://img.shields.io/badge/LeetCode_1_(Banned)-111?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/manubn/">
-  <img src="https://img.shields.io/badge/LeetCode_2_(Banned)-111?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/the_bharadwaj/">
-  <img src="https://img.shields.io/badge/LeetCode_3_(Banned)-111?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
 <br/><br/>
 
 <!-- ===================================================================== -->
