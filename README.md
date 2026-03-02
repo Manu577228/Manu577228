@@ -1,158 +1,144 @@
-<!-- ===================================================================== -->
-<!-- 🌌 NEON BLACK–WHITE ENGINEERING README                               -->
-<!-- ===================================================================== -->
+# Manu Bharadwaj
 
-<div align="center">
+**Software Engineer | Frontend-Heavy Full Stack Developer | System Design Enthusiast**
 
-<img src="https://i.postimg.cc/SKBNcms1/Bharadwaj-removebg-preview.png"
-     width="220"
-     style="border-radius:20px; box-shadow:0 0 25px #ffffff77, 0 0 60px #ffffff33;"/>
-
-<h1 style="
-  font-size:80px;
-  letter-spacing:10px;
-  font-weight:900;
-  font-family:'Courier New';
-  text-shadow:0 0 20px #ffffffcc, 0 0 60px #ffffff66;">
-𝕸 𝖆 𝖓 𝖚  𝕭 𝖍 𝖆 𝖗 𝖆 𝖉 𝖜 𝖆 𝖏
-</h1>
-
-<p>
-<strong>Software Engineer • Backend Architect • System Design Specialist</strong>
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=800&height=45&lines=⚡+Scalable+Backend+Architect;👁️‍🗨️+System+Design+Engineer;🔥+Full+Stack+Developer;⚔️+Competitive+Programmer;💀+Clean+Architecture+Mindset"/>
-</div>
+📞 +91-9972642230  
+📧 bnmanubharadwaj@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/manu-bharadwaj-3507a345  
+💻 GitHub: https://github.com/Manu577228  
 
 ---
 
-# 🕷️ About Me
+## 👨‍💻 About Me
 
-I build **high-performance backend systems**,  
-design **clean & scalable architectures**,  
-and engineer **future-ready applications** with clarity and precision.
+Software Engineer with **2.8 years of experience** designing and delivering scalable distributed systems and production-grade applications.
 
-I focus on:
+I specialize in building modern frontend architectures while engineering reliable backend systems that scale.
 
-- ⚡ Scalable Distributed Systems  
-- 🧠 High-Level & Low-Level Design  
-- 🔥 Backend Engineering (Java / Spring)  
-- 🗄️ Databases & Performance Optimization  
-- ⚔️ Competitive Programming  
+- Strong foundation in **Data Structures, Algorithms, and System Design**
+- Architected secure authentication systems using JWT & Spring Security
+- Optimized high-throughput REST APIs for performance and scalability
+- Built distributed-ready backend services with clean architecture principles
+- Best Global Rank 50 on LeetCode
+- Best Rank 113 on Codeforces
 
----
-
-# 🧠 Current Focus
-
-- System Design (HLD + LLD)
-- Clean Architecture
-- Backend Performance Engineering
-- Designing production-ready APIs
-- Building educational engineering content
+Founder & creator of a technical learning platform focused on advanced DSA and System Design, delivering structured engineering deep-dives aligned with industry best practices.
 
 ---
 
-# 🚀 Tech Stack
+## 🛠 Technical Skills
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,angular,django,fastapi,postgres,mysql,mongodb,redis,docker,kubernetes,git,githubactions,vercel"
-     height="80"/>
+### Languages
+Java, Python, JavaScript, HTML, CSS
 
----
+### Backend
+Spring Boot, Spring Security, REST APIs, JWT, Hibernate/JPA, Django, Express.js
 
-# 💀 Competitive Programming
+### Frontend
+React, Angular, Micro Frontends
 
-<div align="center">
+### Databases
+MySQL, PostgreSQL, MongoDB
 
-<a href="https://leetcode.com/u/mbbn/">
-  <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+### DevOps & Tools
+Docker, Jenkins, AWS EC2, Git
 
-<a href="https://codeforces.com/profile/MBBN">
-  <img src="https://img.shields.io/badge/Codeforces-000?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://leetcard.jacoblin.cool/mbbn?theme=dark&font=Courier&ext=contest"/>
-
-<br/><br/>
-
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=MBBN&theme=dark"/>
-
-</div>
+### Core Concepts
+Data Structures, Algorithms, OOP, System Design, Distributed Systems
 
 ---
 
-# 📊 GitHub Analytics
+## 💻 Experience
 
-<div align="center">
+### Fractal Analytics — Full Stack Intern  
+Jun 2024 – Sep 2024, Jun 2025 – Sep 2025 | Bangalore
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manu577228&show_icons=true&theme=dark&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manu577228&theme=dark&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manu577228&layout=compact&theme=dark&hide_border=true"/>
-
-</div>
+- Architected and deployed a production-grade scalable expense management system supporting cross-functional business operations.
+- Designed secure token-based authentication workflows.
+- Optimized high-throughput REST APIs for scalability and performance.
+- Re-engaged based on demonstrated technical ownership and measurable impact.
 
 ---
 
-# 🏗️ Featured Engineering Domains
+### Allstate India — Software Engineer  
+Nov 2022 – Mar 2023 | Bangalore
 
-### 🔹 Backend Architecture
-- REST APIs
-- Microservices
-- Clean Architecture
-- Event-driven systems
-
-### 🔹 System Design
-- Load Balancing
-- Caching Strategies
-- Database Sharding
-- Rate Limiting
-- Distributed Systems Concepts
-
-### 🔹 Competitive Programming
-- Segment Trees
-- Fenwick Trees
-- Graph Algorithms
-- DP Optimization
-- Bit Manipulation
+- Engineered robust, scalable frontend architectures supporting enterprise reporting workflows.
+- Collaborated with backend and DevOps teams to ensure stable CI/CD deployments across environments.
+- Delivered production-grade enterprise modules with strong reliability.
 
 ---
 
-# 🌐 Connect With Me
+### TechChef’s Software — Consultant  
+Sep 2021 – Nov 2022 | Bangalore
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/manu-bharadwaj-3507a345">
-  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@code-with-Bharadwaj">
-  <img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Manu577228">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://manu-bharadwaj-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
+- Implemented modular Micro Frontend architecture enabling scalable independent deployments across enterprise platforms.
+- Improved maintainability and reduced deployment coupling.
 
 ---
 
-<div align="center">
+### Fidelitus Corp — Executive IT  
+Jan 2021 – Jul 2021 | Bangalore
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=⚡+Crafting+Scalable+Code.+Architecting+Future-Ready+Systems.+⚡"/>
-
-</div>
+- Developed secure reusable authentication components.
+- Built modular UI components for enterprise platforms.
+- Improved frontend performance and overall system responsiveness.
 
 ---
+
+## 🚀 Projects
+
+### URL Shortener — Scalable Link Management Platform  
+Spring Boot, REST APIs, MySQL, React
+
+- Designed high-performance, low-latency URL shortening service.
+- Implemented optimized indexing and efficient unique ID generation.
+- Built structured analytics processing workflows.
+- Engineered backend to handle high-concurrency traffic reliably.
+
+---
+
+### Expense Splitter — Intelligent Group Settlement System  
+Django, SQLite, React
+
+- Architected scalable expense management system with optimized settlement logic.
+- Designed secure authentication workflows.
+- Ensured accurate financial reconciliation and consistent transaction handling.
+
+---
+
+## 🏆 Achievements & Online Presence
+
+- LeetCode — Best Global Rank 50  
+- Codeforces — Best Rank 113  
+- Technical YouTube Platform focused on DSA & System Design  
+- Portfolio: https://manu-bharadwaj-portfolio.vercel.app/
+
+---
+
+## 🎯 Engineering Focus
+
+- Scalable Frontend Architecture
+- Secure Backend Systems
+- REST API Optimization
+- Authentication & Authorization Systems
+- Distributed System Fundamentals
+- Clean Architecture & Maintainable Code
+
+---
+
+## 📊 Competitive Programming
+
+LeetCode: https://leetcode.com/u/mbbn/  
+Codeforces: https://codeforces.com/profile/MBBN  
+
+---
+
+## 🎓 Education
+
+Bachelor of Engineering  
+2018
+
+---
+
+> Building scalable systems. Designing clean architecture. Writing reliable code.
