@@ -1,11 +1,38 @@
-# Manu Bharadwaj
+<!-- ================= HERO SECTION ================= -->
 
-**Software Engineer | Frontend-Heavy Full Stack Developer | System Design Enthusiast**
+<div align="center">
 
-📞 +91-9972642230  
-📧 bnmanubharadwaj@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/manu-bharadwaj-3507a345  
-💻 GitHub: https://github.com/Manu577228  
+<img src="https://i.postimg.cc/SKBNcms1/Bharadwaj-removebg-preview.png"
+width="200"
+style="border-radius:20px; box-shadow:0 0 25px #00000033;" />
+
+<h1>Manu Bharadwaj</h1>
+
+<strong>Frontend-Heavy Full Stack Developer | System Design Enthusiast | Competitive Programmer</strong>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=22&duration=3000&color=000000&center=true&vCenter=true&width=900&lines=Building+Modern+Frontend+Architectures;Designing+Scalable+Backend+Systems;Best+Global+Rank+50+on+LeetCode;System+Design+%7C+DSA+%7C+Clean+Architecture" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/manu-bharadwaj-3507a345">
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Manu577228">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/mbbn/">
+<img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/MBBN">
+<img src="https://img.shields.io/badge/Codeforces-000?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -13,132 +40,143 @@
 
 Software Engineer with **2.8 years of experience** designing and delivering scalable distributed systems and production-grade applications.
 
-I specialize in building modern frontend architectures while engineering reliable backend systems that scale.
+I focus on:
 
-- Strong foundation in **Data Structures, Algorithms, and System Design**
-- Architected secure authentication systems using JWT & Spring Security
-- Optimized high-throughput REST APIs for performance and scalability
-- Built distributed-ready backend services with clean architecture principles
-- Best Global Rank 50 on LeetCode
-- Best Rank 113 on Codeforces
+- 🎨 Scalable Frontend Architecture (Primary Strength)
+- ⚙️ Secure & Optimized Backend Systems
+- 🧠 System Design & Clean Architecture
+- ⚡ High-Performance REST APIs
+- 🏆 Competitive Programming (Global Rank 50 – LeetCode)
 
-Founder & creator of a technical learning platform focused on advanced DSA and System Design, delivering structured engineering deep-dives aligned with industry best practices.
-
----
-
-## 🛠 Technical Skills
-
-### Languages
-Java, Python, JavaScript, HTML, CSS
-
-### Backend
-Spring Boot, Spring Security, REST APIs, JWT, Hibernate/JPA, Django, Express.js
-
-### Frontend
-React, Angular, Micro Frontends
-
-### Databases
-MySQL, PostgreSQL, MongoDB
-
-### DevOps & Tools
-Docker, Jenkins, AWS EC2, Git
-
-### Core Concepts
-Data Structures, Algorithms, OOP, System Design, Distributed Systems
+Founder of a technical learning platform delivering deep dives in **DSA & System Design**.
 
 ---
 
-## 💻 Experience
+## 🛠 Tech Stack
 
-### Fractal Analytics — Full Stack Intern  
-Jun 2024 – Sep 2024, Jun 2025 – Sep 2025 | Bangalore
+### 🎨 Frontend
 
-- Architected and deployed a production-grade scalable expense management system supporting cross-functional business operations.
+<img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css,tailwind,redux" height="60"/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,express,nodejs" height="60"/>
+
+### 🗄 Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" height="60"/>
+
+### 🚀 DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,jenkins,aws,git,githubactions" height="60"/>
+
+---
+
+## 💼 Experience
+
+### 🔹 Fractal Analytics — Full Stack Intern  
+Jun 2024 – Sep 2024, Jun 2025 – Sep 2025
+
+- Architected and deployed a scalable expense management system.
 - Designed secure token-based authentication workflows.
-- Optimized high-throughput REST APIs for scalability and performance.
-- Re-engaged based on demonstrated technical ownership and measurable impact.
+- Optimized high-throughput REST APIs.
+- Re-engaged based on strong technical ownership.
 
 ---
 
-### Allstate India — Software Engineer  
-Nov 2022 – Mar 2023 | Bangalore
+### 🔹 Allstate India — Software Engineer  
+Nov 2022 – Mar 2023
 
-- Engineered robust, scalable frontend architectures supporting enterprise reporting workflows.
-- Collaborated with backend and DevOps teams to ensure stable CI/CD deployments across environments.
-- Delivered production-grade enterprise modules with strong reliability.
-
----
-
-### TechChef’s Software — Consultant  
-Sep 2021 – Nov 2022 | Bangalore
-
-- Implemented modular Micro Frontend architecture enabling scalable independent deployments across enterprise platforms.
-- Improved maintainability and reduced deployment coupling.
+- Engineered scalable frontend architectures.
+- Delivered enterprise reporting modules.
+- Collaborated with DevOps for CI/CD stability.
 
 ---
 
-### Fidelitus Corp — Executive IT  
-Jan 2021 – Jul 2021 | Bangalore
+### 🔹 TechChef’s Software — Consultant  
+Sep 2021 – Nov 2022
 
-- Developed secure reusable authentication components.
-- Built modular UI components for enterprise platforms.
-- Improved frontend performance and overall system responsiveness.
+- Implemented Micro Frontend architecture.
+- Enabled independent scalable deployments.
+
+---
+
+### 🔹 Fidelitus Corp — Executive IT  
+Jan 2021 – Jul 2021
+
+- Built reusable authentication components.
+- Improved frontend performance & reliability.
 
 ---
 
 ## 🚀 Projects
 
-### URL Shortener — Scalable Link Management Platform  
-Spring Boot, REST APIs, MySQL, React
+### 🔗 URL Shortener — Scalable Link Platform
+Spring Boot, MySQL, React
 
-- Designed high-performance, low-latency URL shortening service.
-- Implemented optimized indexing and efficient unique ID generation.
-- Built structured analytics processing workflows.
-- Engineered backend to handle high-concurrency traffic reliably.
+- Low-latency URL redirection system.
+- Optimized indexing & ID generation.
+- Designed high-concurrency backend workflows.
 
 ---
 
-### Expense Splitter — Intelligent Group Settlement System  
+### 💰 Expense Splitter — Intelligent Settlement System
 Django, SQLite, React
 
-- Architected scalable expense management system with optimized settlement logic.
-- Designed secure authentication workflows.
-- Ensured accurate financial reconciliation and consistent transaction handling.
+- Optimized settlement computation logic.
+- Built secure authentication mechanisms.
+- Ensured accurate financial reconciliation.
 
 ---
 
-## 🏆 Achievements & Online Presence
+## 📊 GitHub Analytics
 
-- LeetCode — Best Global Rank 50  
-- Codeforces — Best Rank 113  
-- Technical YouTube Platform focused on DSA & System Design  
-- Portfolio: https://manu-bharadwaj-portfolio.vercel.app/
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Manu577228&show_icons=true&theme=default&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manu577228&theme=default&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manu577228&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Competitive Programming Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/mbbn?theme=light&font=Courier&ext=contest"/>
+
+<br/>
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=MBBN"/>
+
+</div>
 
 ---
 
 ## 🎯 Engineering Focus
 
-- Scalable Frontend Architecture
-- Secure Backend Systems
-- REST API Optimization
-- Authentication & Authorization Systems
-- Distributed System Fundamentals
-- Clean Architecture & Maintainable Code
+- Clean & Maintainable Code
+- Scalable Frontend Systems
+- Secure Backend Architecture
+- Distributed System Foundations
+- Performance Optimization
 
 ---
 
-## 📊 Competitive Programming
+## 📫 Contact
 
-LeetCode: https://leetcode.com/u/mbbn/  
-Codeforces: https://codeforces.com/profile/MBBN  
-
----
-
-## 🎓 Education
-
-Bachelor of Engineering  
-2018
+📞 +91-9972642230  
+📧 bnmanubharadwaj@gmail.com  
+🌐 Portfolio: https://manu-bharadwaj-portfolio.vercel.app/
 
 ---
 
-> Building scalable systems. Designing clean architecture. Writing reliable code.
+> Building beautiful frontends. Powering them with scalable backends.
