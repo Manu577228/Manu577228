@@ -6,7 +6,7 @@ style="border-radius:16px; box-shadow:0 0 35px #000000aa;" />
 
 # Manu Bharadwaj
 
-**Product Engineer • Competitive Programmer • Scalable Systems**
+**Software Engineer • Competitive Programmer • Scalable Systems**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=20&duration=2800&color=58A6FF&center=true&vCenter=true&width=850&lines=Global+Rank+50+LeetCode;Advanced+Competitive+Programmer;Performance-First+Engineering;Designing+Systems+That+Scale" />
 
