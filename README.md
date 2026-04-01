@@ -47,7 +47,7 @@ Engineer with **2.8+ years** building production systems — backed by strong co
 - Advanced problem-solving across graphs, DP, trees, greedy, and data structures
 - Strong contest performance under strict time constraints
 - Deep understanding of time & space complexity tradeoffs
-- Consistent high-performance implementations in Java & Node.js
+- Consistent high-performance implementations in Java.
 
 <div align="center">
 
@@ -61,23 +61,13 @@ Engineer with **2.8+ years** building production systems — backed by strong co
 
 ---
 
-## ENGINEERING IMPACT
-
-- ↓ API latency by **42%**
-- ↑ Backend throughput by **3.2x**
-- ↑ Frontend performance by **38%**
-- ↓ Authentication overhead by **27%**
-- ↓ Deployment instability by **30%**
-
----
-
 ## CORE STACK
 
 **Frontend**  
-React • Angular • TypeScript • Redux  
+React • Angular • Next.js • TypeScript • Javascript • Redux  
 
 **Backend**  
-Java • Spring Boot • Node.js • Python  
+• Spring Boot • Express.js • Django • Kafka • Docker
 
 **Data**  
 PostgreSQL • MySQL • MongoDB • Redis  
