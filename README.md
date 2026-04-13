@@ -43,7 +43,7 @@ Engineer with **2.8+ years** building production systems — backed by strong co
 
 ## COMPETITIVE PROGRAMMING
 
-- 🌍 **Global Rank 50 — LeetCode**
+- 🌍 **Global Rank 49 — LeetCode**
 - Advanced problem-solving across graphs, DP, trees, greedy, and data structures
 - Strong contest performance under strict time constraints
 - Deep understanding of time & space complexity tradeoffs
