@@ -8,7 +8,7 @@ style="border-radius:16px; box-shadow:0 0 35px #000000aa;" />
 
 **Software Engineer • Competitive Programmer • Scalable Systems**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=20&duration=2800&color=58A6FF&center=true&vCenter=true&width=850&lines=Global+Rank+50+LeetCode;Advanced+Competitive+Programmer;Performance-First+Engineering;Designing+Systems+That+Scale" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=20&duration=2800&color=58A6FF&center=true&vCenter=true&width=850&lines=Advanced+Competitive+Programmer;Performance-First+Engineering;Designing+Systems+That+Scale" />
 
 <br/>
 
@@ -43,7 +43,6 @@ Engineer with **2.8+ years** building production systems — backed by strong co
 
 ## COMPETITIVE PROGRAMMING
 
-- 🌍 **Global Rank 49 — LeetCode**
 - Advanced problem-solving across graphs, DP, trees, greedy, and data structures
 - Strong contest performance under strict time constraints
 - Deep understanding of time & space complexity tradeoffs
