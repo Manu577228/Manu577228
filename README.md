@@ -4,7 +4,7 @@
 
 # Manu Bharadwaj
 
-**Full-Stack Engineer · Distributed Systems · Competitive Programmer**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;Distributed+Systems+%7C+Scalable+APIs;Competitive+Programmer+%7C+LC+%2349+Global)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/manu-bharadwaj-3507a345)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/mbbn/)
