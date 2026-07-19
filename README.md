@@ -36,7 +36,9 @@
 
 <br><br>
 
-<img src="https://atcoder-readme-stats.vercel.app/stats/the_bharadwaj?theme=dark" />
+<a href="https://atcoder.jp/users/the_bharadwaj">
+  <img src="https://img.shields.io/badge/Visit%20My%20AtCoder%20Profile-0D1117?style=for-the-badge&logo=atcoder&logoColor=white" />
+</a>
 
 </div>
 
