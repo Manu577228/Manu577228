@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/manu-bharadwaj-3507a345)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/mbbn/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/MBBN)
+[![AtCoder](https://img.shields.io/badge/AtCoder-0D1117?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/the_bharadwaj)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://manu-bharadwaj-portfolio.vercel.app/)
 
 ![](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=flat-square)
@@ -27,30 +28,34 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/mbbn?theme=dark&font=Courier&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/mbbn?theme=dark&font=JetBrains&ext=contest" />
 
-&nbsp;
+<br><br>
 
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=MBBN" />
+
+<br><br>
+
+<img src="https://atcoder-readme-stats.vercel.app/stats/the_bharadwaj?theme=dark" />
 
 </div>
 
 ---
 
-## Stack
+## Tech Stack
 
-| | |
-|---|---|
+| Category | Technologies |
+|----------|--------------|
 | **Languages** | Java · Python · TypeScript · JavaScript |
 | **Backend** | Spring Boot · Django · Express.js · GraphQL · Kafka |
 | **Frontend** | React · Next.js · Angular · Redux |
-| **Data** | MSSQL · MySQL · MongoDB · Redis |
-| **Infra** | Docker · AWS EC2 · Jenkins · CI/CD |
+| **Databases** | MSSQL · MySQL · MongoDB · Redis |
+| **Infrastructure** | Docker · AWS EC2 · Jenkins · GitHub Actions · CI/CD |
 
 ---
 
 <div align="center">
 
-📧 bnmanubharadwaj@gmail.com
+📧 **bnmanubharadwaj@gmail.com**
 
 </div>
