@@ -24,10 +24,6 @@
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/>
 </a>
 
-<a href="https://atcoder.jp/users/the_bharadwaj">
-<img src="https://img.shields.io/badge/AtCoder-22272E?style=flat-square&logo=atcoder&logoColor=white"/>
-</a>
-
 <a href="https://manu-bharadwaj-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
@@ -61,12 +57,6 @@ My work primarily focuses on:
 <br><br>
 
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=MBBN" />
-
-<br><br>
-
-<a href="https://atcoder.jp/users/the_bharadwaj">
-<img src="https://img.shields.io/badge/View%20AtCoder%20Profile-0D1117?style=for-the-badge&logo=atcoder&logoColor=white"/>
-</a>
 
 </div>
 
