@@ -56,8 +56,6 @@ My work primarily focuses on:
 
 <br><br>
 
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=MBBN" />
-
 </div>
 
 ---
