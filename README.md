@@ -20,10 +20,6 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/profile/MBBN">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/>
-</a>
-
 <a href="https://manu-bharadwaj-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
