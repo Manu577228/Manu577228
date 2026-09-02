@@ -24,6 +24,10 @@
 <img src="https://img.shields.io/badge/LeetCode-JavaScript-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
 </a>
 
+<a href="https://codeforces.com/profile/MBBN-AC">
+<img src="https://img.shields.io/badge/Codeforces-Java-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/>
+</a>
+
 <a href="https://manu-bharadwaj-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
@@ -52,24 +56,37 @@ My work primarily focuses on:
 
 <div align="center">
 
-### Java — Current Account
+### LeetCode
 
 <a href="https://leetcode.com/u/mbbn/">
 <img src="https://leetcard.jacoblin.cool/mbbn?theme=dark&font=JetBrains&ext=contest" />
 </a>
 
-<br><br>
+<br>
 
-### JavaScript — Previous Account
+**Primary language:** Java
+
+<br><br>
 
 <a href="https://leetcode.com/u/Manu-Bharadwaj-BN/">
 <img src="https://leetcard.jacoblin.cool/Manu-Bharadwaj-BN?theme=dark&font=JetBrains&ext=contest" />
 </a>
 
+<br>
+
+**Previous profile:** JavaScript
+
 <br><br>
 
-> **LeetCode:** Currently solving problems primarily in **Java**.
-> Previous solutions and competitive programming history are available in my **JavaScript account**.
+### Codeforces
+
+<a href="https://codeforces.com/profile/MBBN-AC">
+<img src="https://img.shields.io/badge/Current_Profile-MBBN--AC-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<br><br>
+
+**Primary language:** Java
 
 </div>
 
