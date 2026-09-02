@@ -4,7 +4,7 @@
 
 ### Full-Stack Software Engineer • Distributed Systems • Competitive Programmer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Software;Java+%7C+Spring+Boot+%7C+React;Distributed+Systems+%7C+System+Design;LeetCode+Global+Rank+%2341" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Software;Java+%7C+Spring+Boot+%7C+React;Distributed+Systems+%7C+System+Design;Competitive+Programming+%7C+Java+%7C+JavaScript" />
 
 <br>
 
@@ -17,7 +17,11 @@
 </a>
 
 <a href="https://leetcode.com/u/mbbn/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-Java-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Manu-Bharadwaj-BN/">
+<img src="https://img.shields.io/badge/LeetCode-JavaScript-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://manu-bharadwaj-portfolio.vercel.app/">
@@ -34,13 +38,13 @@ Software Engineer with **2.8+ years** of experience building production-grade ap
 
 My work primarily focuses on:
 
-- Distributed Systems
-- Backend Engineering
-- Modern Frontend Development
-- Scalable REST APIs
-- System Design
-- Performance Optimization
-- Competitive Programming
+* Distributed Systems
+* Backend Engineering
+* Modern Frontend Development
+* Scalable REST APIs
+* System Design
+* Performance Optimization
+* Competitive Programming
 
 ---
 
@@ -48,9 +52,24 @@ My work primarily focuses on:
 
 <div align="center">
 
+### Java — Current Account
+
+<a href="https://leetcode.com/u/mbbn/">
 <img src="https://leetcard.jacoblin.cool/mbbn?theme=dark&font=JetBrains&ext=contest" />
+</a>
 
 <br><br>
+
+### JavaScript — Previous Account
+
+<a href="https://leetcode.com/u/Manu-Bharadwaj-BN/">
+<img src="https://leetcard.jacoblin.cool/Manu-Bharadwaj-BN?theme=dark&font=JetBrains&ext=contest" />
+</a>
+
+<br><br>
+
+> **LeetCode:** Currently solving problems primarily in **Java**.
+> Previous solutions and competitive programming history are available in my **JavaScript account**.
 
 </div>
 
@@ -58,13 +77,13 @@ My work primarily focuses on:
 
 ## Tech Stack
 
-| Area | Technologies |
-|------|--------------|
-| Languages | Java • Python • JavaScript • TypeScript |
-| Backend | Spring Boot • Django • Express.js • GraphQL • Kafka |
-| Frontend | React • Next.js • Angular • Redux |
-| Databases | MySQL • MSSQL • MongoDB • Redis |
-| Cloud | Docker • AWS EC2 • Jenkins • GitHub Actions • CI/CD |
+| Area             | Technologies                                                                 |
+| ---------------- | ---------------------------------------------------------------------------- |
+| Languages        | Java • Python • JavaScript • TypeScript                                      |
+| Backend          | Spring Boot • Django • Express.js • GraphQL • Kafka                          |
+| Frontend         | React • Next.js • Angular • Redux                                            |
+| Databases        | MySQL • MSSQL • MongoDB • Redis                                              |
+| Cloud            | Docker • AWS EC2 • Jenkins • GitHub Actions • CI/CD                          |
 | Computer Science | Data Structures & Algorithms • System Design • OOP • SOLID • Design Patterns |
 
 ---
@@ -83,6 +102,6 @@ My work primarily focuses on:
 
 <div align="center">
 
-**bnmanubharadwaj@gmail.com**
+**[bnmanubharadwaj@gmail.com](mailto:bnmanubharadwaj@gmail.com)**
 
 </div>
