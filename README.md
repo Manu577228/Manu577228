@@ -1,17 +1,17 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:A371F7&height=240&section=header&text=Manu%20Bharadwaj&fontSize=66&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Educator&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Manu Bharadwaj"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:A371F7&height=240&section=header&text=Manu%20Bharadwaj&fontSize=66&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20Java%20%E2%80%A2%20Educator&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Manu Bharadwaj"/>
 
 <a href="https://github.com/Manu577228">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=Building+scalable+backends+that+don't+fall+over;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Kafka+%E2%80%A2+React;Teaching+DSA+%26+System+Design+on+YouTube;2.8%2B+years+shipping+production+software" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=Enterprise+React+%2B+TypeScript+frontends+at+scale;Spring+Boot+%E2%80%A2+Django+%E2%80%A2+GraphQL+%E2%80%A2+Kafka;LeetCode+Best+Global+Rank+41;Teaching+DSA+%26+System+Design+on+YouTube" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Open%20to-Opportunities-2EA043?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
-<img src="https://img.shields.io/badge/Experience-2.8%2B%20Years-1F6FEB?style=for-the-badge&logo=briefcase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Primary-Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Experience-2.8%20Years-1F6FEB?style=for-the-badge&logo=briefcase&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-Best%20Global%20Rank%2041-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 <img src="https://komarev.com/ghpvc/?username=Manu577228&label=Profile%20Views&color=A371F7&style=for-the-badge"/>
 
 <br/><br/>
@@ -33,6 +33,7 @@
 [**Quick Scan**](#-recruiter-quick-scan) •
 [**About**](#-about-me) •
 [**Skills**](#%EF%B8%8F-tech-stack) •
+[**Experience**](#-experience--impact) •
 [**Projects**](#-featured-projects) •
 [**Engineering**](#-how-i-engineer) •
 [**CP**](#-competitive-programming) •
@@ -50,11 +51,11 @@
 
 | | |
 | :-- | :-- |
-| 🎯 **Target roles** | Backend Engineer • Full-Stack Engineer • SDE (Java-first) |
-| ⏱️ **Experience** | 2.8+ years building production applications |
-| 🧰 **Core stack** | Java • Spring Boot • Kafka • MySQL / MongoDB / Redis • React / Next.js • Docker • AWS |
-| 💪 **Strengths** | Scalable REST/GraphQL APIs • Distributed systems • System design (HLD + LLD) • DSA |
-| 📦 **Proof of work** | 4 public repos (Java / Python) • ~2000 educational videos • active on LeetCode and Codeforces |
+| 🎯 **Target roles** | Full-Stack Engineer • Frontend / React Engineer • Backend Engineer (Java) • SDE |
+| ⏱️ **Experience** | 2.8 years across Fractal Analytics, Allstate India, TechChef's Software (clients: Dell, Intuit, JPMC) and Fidelitus Corp |
+| 🧰 **Core stack** | React • TypeScript • Next.js • Java • Spring Boot • Django • GraphQL • Kafka • MySQL / MongoDB • Docker |
+| 💪 **Strengths** | Enterprise frontends • Micro Frontends • REST / GraphQL APIs • Testing and accessibility • DSA and system design |
+| 🏆 **Proof of work** | LeetCode Best Global Rank 41 • 4 public repos (Java / Python) • ~2000 educational videos |
 | 🌱 **Looking for** | A team that values ownership, clean design and engineering depth |
 | ✉️ **Fastest way to reach me** | [bnmanubharadwaj@gmail.com](mailto:bnmanubharadwaj@gmail.com) |
 
@@ -75,8 +76,8 @@ public class ManuBharadwaj implements SoftwareEngineer {
     String   role        = "Full-Stack Software Engineer";
     double   experience  = 2.8;  // years, and counting
     String[] superpowers = {
-        "Distributed Systems", "Backend Engineering", "System Design",
-        "Performance Optimization", "Data Structures & Algorithms"
+        "Enterprise React + TypeScript", "Micro Frontends", "Backend APIs (Spring Boot, Django)",
+        "System Design", "Data Structures & Algorithms"
     };
 
     public String mindset() {
@@ -85,10 +86,10 @@ public class ManuBharadwaj implements SoftwareEngineer {
 }
 ```
 
-I'm a software engineer who enjoys the full path from a whiteboard idea to a running service. I spend most of my time on **backends** (APIs, data models, messaging, performance) and I'm equally comfortable building the **frontend** that sits on top of them.
+I'm a software engineer with 2.8 years of industry experience, primarily building **scalable enterprise frontend applications** in React, TypeScript and modern JavaScript, backed by hands-on **backend work** in Spring Boot, Django, REST and GraphQL. I care about frontend architecture, performance, testing and accessibility, and I'm equally happy designing the API behind the screen.
 
-- 🏗️ **Builder:** production-grade backends and modern frontends, including scalable REST/GraphQL APIs, event-driven services and clean user interfaces.
-- 🧠 **Problem solver:** I practise competitively on LeetCode and Codeforces, primarily in **Java**, which keeps my algorithmic fundamentals sharp.
+- 🏗️ **Builder:** enterprise React platforms, a Micro Frontend system with independent per-team deployments, and multi-tenant backends with JWT auth and role-based access control.
+- 🧠 **Problem solver:** **LeetCode Best Global Rank 41**, with active Codeforces practice, which keeps my algorithmic fundamentals sharp.
 - 🎥 **Teacher:** I explain DSA, low-level design and system design on YouTube [@code-with-Bharadwaj](https://youtube.com/@code-with-Bharadwaj), with close to **2000 videos**.
 - 📚 **Open-source contributor:** I maintain Java (and Python) repos on algorithms and low-level design that people use for interview prep.
 - 🔁 **Always learning:** I treat every system I build as a chance to understand one more trade-off properly.
@@ -100,7 +101,7 @@ I'm a software engineer who enjoys the full path from a whiteboard idea to a run
 
 - **Ownership:** features and services I can take from design to deployment and operate in production.
 - **Engineering culture:** code reviews that teach, design docs, tests, CI/CD, and healthy on-call.
-- **Scale and depth:** problems where data structures, concurrency, messaging and database design actually matter.
+- **Scale and depth:** problems where frontend architecture, data structures, messaging and database design actually matter.
 - **Mentorship both ways:** I learn fast from strong seniors and enjoy helping juniors grow, which comes naturally from teaching.
 
 </details>
@@ -114,15 +115,15 @@ I'm a software engineer who enjoys the full path from a whiteboard idea to a run
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts&perline=8" alt="Languages"/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=spring,django,express,graphql,kafka,nodejs&perline=8" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&perline=8" alt="Languages"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,html,css&perline=8" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,jest,redux,angular&perline=8" alt="Frontend"/>
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=spring,django,fastapi,express,graphql,kafka&perline=8" alt="Backend"/>
 
 **Databases**
 
@@ -130,7 +131,7 @@ I'm a software engineer who enjoys the full path from a whiteboard idea to a run
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,aws,jenkins,githubactions,linux,git&perline=8" alt="DevOps"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,jenkins,githubactions,git&perline=8" alt="DevOps"/>
 
 </div>
 
@@ -138,12 +139,13 @@ I'm a software engineer who enjoys the full path from a whiteboard idea to a run
 
 | Area | Technologies |
 | :-- | :-- |
-| **Languages** | Java (primary) • Python • JavaScript • TypeScript |
-| **Backend** | Spring Boot • Django • Express.js • GraphQL • REST • Kafka |
-| **Frontend** | React • Next.js • Angular • Redux |
-| **Databases** | MySQL • MSSQL • MongoDB • Redis |
-| **DevOps / Cloud** | Docker • AWS EC2 • Jenkins • GitHub Actions • CI/CD |
-| **Computer Science** | Data Structures & Algorithms • System Design • OOP • SOLID • Design Patterns |
+| **Languages** | Java • Python • JavaScript • TypeScript • HTML • CSS |
+| **Frontend** | React • Next.js • Micro Frontends • Redux • Jest • Enzyme • Angular |
+| **Backend** | Spring Boot • Django • FastAPI • Express.js • REST • GraphQL • Microservices |
+| **Messaging** | Apache Kafka |
+| **Databases** | MySQL • PostgreSQL • MongoDB • Redis • MSSQL |
+| **DevOps / Cloud** | Docker • Jenkins • GitHub Actions • Git • CI/CD • AWS EC2 |
+| **Computer Science** | Data Structures & Algorithms • System Design • Caching • OOP • SOLID • Design Patterns |
 
 <details>
 <summary><b>🔎 How I use these in practice (click to expand)</b></summary>
@@ -152,14 +154,38 @@ I'm a software engineer who enjoys the full path from a whiteboard idea to a run
 
 | Capability | What it means day to day |
 | :-- | :-- |
-| **API design** | Clear resource modelling, consistent errors, versioning, pagination, and choosing REST vs GraphQL deliberately |
-| **Messaging** | Using Kafka to decouple services, reason about ordering, retries and idempotent consumers |
-| **Data layer** | Picking relational vs document stores, indexing, query tuning, and caching hot paths with Redis |
-| **Frontend** | Component-driven React/Next.js apps with predictable state management |
-| **Delivery** | Dockerised services, CI pipelines with Jenkins / GitHub Actions, deployments on AWS EC2 |
-| **Design** | Applying SOLID and design patterns to keep code easy to change and test |
+| **Frontend architecture** | Reusable component libraries, Micro Frontends, predictable state management and design-system conventions |
+| **Quality** | Jest and Enzyme test suites, WCAG-compliant and cross-browser UIs, fewer recurring UI regressions |
+| **API design** | Clear resource modelling, JWT auth, role-based access, and choosing REST vs GraphQL deliberately |
+| **Messaging** | Using Kafka to decouple services and reason about ordering, retries and idempotent consumers |
+| **Data layer** | Picking relational vs document stores, indexing, query tuning, and caching hot paths |
+| **Delivery** | Dockerised services and CI/CD pipelines with Jenkins / GitHub Actions, with validation gates before merge |
 
 </details>
+
+<br/>
+
+<!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
+## 💼 Experience & Impact
+
+**Full Stack Engineering Intern, Fractal Analytics** <sub>Jun – Sep 2024 • Jun – Sep 2025 (rehired for a second cycle)</sub>
+- Designed and built a **multi-tenant expense management platform** covering financial workflows, automated reporting and real-time dashboards.
+- Developed backend APIs and optimised database operations to improve performance and reliability.
+- Implemented **JWT authentication and role-based access control** across platform APIs.
+
+**Software Engineer, Allstate India** <sub>Nov 2022 – Mar 2023</sub>
+- Built enterprise **React reporting platforms** that consolidated analytics and data visualisation for global stakeholders, removing manual reporting effort and duplicate data pipelines.
+- Improved **CI/CD stability** with pre-merge validation gates and deployment health checks, reducing rollbacks and speeding up releases.
+
+**Consultant, TechChef's Software** <sub>Sep 2021 – Nov 2022 • Clients: Dell, Intuit, JPMC</sub>
+- Architected a **React Micro Frontend** system so teams could deploy independently, removing cross-team release coupling.
+- Built **QuickBooks-integrated modules in React and GraphQL**, replacing over-fetching REST calls with schema-driven queries.
+- Set up a **Jest and Enzyme testing framework** from scratch and delivered WCAG-compliant, cross-browser UIs that eliminated recurring regressions.
+
+**Executive IT, Fidelitus Corp** <sub>Jan 2021 – Jul 2021</sub>
+- Built reusable React components and secure authentication flows for internal platforms, enforcing design-system conventions across views.
+
+<sub>🎓 B.E., Visvesvaraya Technological University (2018)</sub>
 
 <br/>
 
@@ -194,30 +220,6 @@ I'm a software engineer who enjoys the full path from a whiteboard idea to a run
 | [**50 Low-Level Design Problems**](https://github.com/Manu577228/50-Low-Level-Design-Problems) | 50 curated LLD problems with full Java solutions | Consistency and breadth, with SOLID applied across many domains | `Java` |
 | [**50 LLD Megapack**](https://github.com/Manu577228/50-LLD-Megapack) | The same 50 LLD problems with every solution in **both Python and Java** | Designs that transfer across languages, not tied to one syntax | `Python` `Java` |
 
-<details>
-<summary><b>📖 Project details (click to expand)</b></summary>
-
-<br/>
-
-**1. CP Core Algorithms 150** <sub>(Java)</sub>
-A curated set of 150 core algorithms for competitive programming, LeetCode and interviews, written in Java. It is meant to be a single place to revise the patterns that come up again and again.
-
-**2. Important LLD Problems** <sub>(Java)</sub>
-System-design practice at the class and object level: modelling entities, assigning responsibilities and applying design patterns so the result is extensible.
-
-**3. 50 Low-Level Design Problems** <sub>(Java)</sub>
-Fifty low-level design problems with complete Java solutions, built for people preparing for LLD interview rounds.
-
-**4. 50 LLD Megapack** <sub>(Python + Java)</sub>
-The same fifty problems with every solution in both Python and Java, so learners can compare how one design looks in two languages.
-
-<!--
-  ✏️ TODO: for each repo add 1 line on what makes it different (for example number of stars,
-  how it's organised, how many people use it) once you check the real numbers.
--->
-
-</details>
-
 <br/>
 
 <!-- ═══════════════════════════ ENGINEERING ═══════════════════════════ -->
@@ -234,7 +236,7 @@ The same fifty problems with every solution in both Python and Java, so learners
 
 ### ⚙️ Build for scale
 - Think about data growth, hot paths and failure modes early
-- Use caching and asynchronous messaging where they pay off
+- Split frontends and services so teams can ship independently
 - Measure before optimising
 
 </td>
@@ -242,7 +244,7 @@ The same fifty problems with every solution in both Python and Java, so learners
 
 ### ✅ Ship with confidence
 - Small, reviewable changes
-- Automated builds and pipelines (Jenkins, GitHub Actions)
+- Tests, validation gates and health checks in the pipeline (Jenkins, GitHub Actions)
 - Containerised, reproducible environments with Docker
 
 ### 🗣️ Communicate clearly
@@ -253,38 +255,6 @@ The same fifty problems with every solution in both Python and Java, so learners
 </td>
 </tr>
 </table>
-
-<details>
-<summary><b>🏗️ System design topics I'm comfortable discussing (click to expand)</b></summary>
-
-<br/>
-
-- Designing REST and GraphQL APIs
-- Caching strategies with Redis
-- Event-driven architecture and message queues with Kafka
-- Choosing between SQL and NoSQL stores
-- Scaling reads and writes, and avoiding single points of failure
-- Low-level design: classes, interfaces, relationships and patterns
-
-</details>
-
-<br/>
-
-<!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
-## 💼 Experience & Impact
-
-<!--
-  ✏️ TODO (highest-value edit): replace the line below with 2-4 real, quantified bullets, e.g.
-
-  **Software Engineer, <Company>** (<Month Year> – Present)
-  - Built <what> using <stack>, serving <N users / requests per second>
-  - Reduced <metric> by <X%> by <what you did>
-  - Owned <service/feature> from design to production
--->
-
-**Software Engineer** • 2.8+ years • Java, Spring Boot, React, Kafka, MySQL, Docker, AWS
-
-*Detailed responsibilities and results are on my [LinkedIn](https://www.linkedin.com/in/manu-bharadwaj-3507a345) and [portfolio](https://manu-bharadwaj-portfolio.vercel.app/).*
 
 <br/>
 
@@ -310,7 +280,7 @@ The same fifty problems with every solution in both Python and Java, so learners
 
 </div>
 
-**Why it matters for an employer:** competitive programming trains speed, accuracy under pressure and a deep feel for complexity, which carry over to debugging, performance work and design discussions.
+**LeetCode Best Global Rank 41.** Competitive programming trains speed, accuracy under pressure and a deep feel for complexity, which carry over to debugging, performance work and design discussions.
 
 <br/>
 
@@ -341,18 +311,18 @@ The same fifty problems with every solution in both Python and Java, so learners
 <img src="https://img.shields.io/badge/code--with--Bharadwaj-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 
-**~2000 videos** on DSA • Low-Level Design • System Design • Java • Interview Prep
+**~2000 videos** on DSA • Low-Level Design • System Design • Java • Python • JavaScript • Interview Prep
 
 </div>
 
-Explaining a concept on camera is the fastest way to find gaps in your own understanding. It has made me better at code reviews, writing design docs and onboarding teammates.
+I build real engineering projects on camera, with dedicated series in Java, Python and JavaScript. Explaining a concept is the fastest way to find gaps in your own understanding, and it has made me better at code reviews, design docs and onboarding teammates.
 
 | What I teach | Why it helps |
 | :-- | :-- |
 | **DSA and problem solving** | Pattern-based thinking for coding rounds |
 | **Low-Level Design** | Turning requirements into clean classes and interfaces |
 | **System Design** | Reasoning about scale, trade-offs and architecture |
-| **Java** | Practical, interview-ready language fundamentals |
+| **Language series** | Practical, interview-ready fundamentals in Java, Python and JavaScript |
 
 <br/>
 
@@ -364,7 +334,7 @@ Explaining a concept on camera is the fastest way to find gaps in your own under
 
 <br/>
 
-Backend Engineer, Full-Stack Engineer and SDE roles, especially Java-first teams working with Spring Boot, Kafka and relational or document databases.
+Full-Stack and Frontend (React / TypeScript) Engineer roles, and Java-first backend roles with Spring Boot, Kafka and relational or document databases.
 
 </details>
 
@@ -373,7 +343,7 @@ Backend Engineer, Full-Stack Engineer and SDE roles, especially Java-first teams
 
 <br/>
 
-2.8+ years building production applications across backend and frontend.
+2.8 years across enterprise frontend work (Allstate India, TechChef's Software for Dell, Intuit and JPMC, Fidelitus Corp) and full-stack platform work at Fractal Analytics, where I was rehired for a second internship cycle.
 
 </details>
 
@@ -382,7 +352,7 @@ Backend Engineer, Full-Stack Engineer and SDE roles, especially Java-first teams
 
 <br/>
 
-Yes: four public repos on algorithms and low-level design, close to 2000 teaching videos, and public LeetCode and Codeforces profiles linked above.
+Yes: LeetCode Best Global Rank 41, four public repos on algorithms and low-level design, close to 2000 teaching videos, and public LeetCode and Codeforces profiles linked above.
 
 </details>
 
@@ -400,7 +370,7 @@ Email at [bnmanubharadwaj@gmail.com](mailto:bnmanubharadwaj@gmail.com) or a mess
 
 <br/>
 
-Yes. My centre of gravity is backend (Java, Spring Boot, Kafka, databases), and I'm productive in React, Next.js and Angular on the frontend.
+Yes. My strongest depth is in React and TypeScript on the frontend (including Micro Frontends, testing and accessibility), and I build backends in Java with Spring Boot and in Python with Django, using REST, GraphQL, Kafka and SQL / NoSQL databases.
 
 </details>
 
@@ -411,7 +381,7 @@ Yes. My centre of gravity is backend (Java, Spring Boot, Kafka, databases), and 
 
 <div align="center">
 
-I'm open to **backend / full-stack / SDE** roles where I can own systems end to end.
+I'm open to **full-stack / frontend / backend / SDE** roles where I can own features end to end.
 
 <a href="mailto:bnmanubharadwaj@gmail.com">
 <img src="https://img.shields.io/badge/Hire%20Me-bnmanubharadwaj%40gmail.com-2EA043?style=for-the-badge&logo=gmail&logoColor=white"/>
