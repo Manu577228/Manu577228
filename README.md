@@ -272,12 +272,6 @@ I'm a software engineer with 2.8 years of industry experience, primarily buildin
 
 <sub>Left: current profile (Java) • Right: earlier profile (JavaScript)</sub>
 
-<br/><br/>
-
-<a href="https://codeforces.com/profile/MBBN-AC">
-<img src="https://img.shields.io/badge/Codeforces-MBBN--AC-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-</a>
-
 </div>
 
 **LeetCode Best Global Rank 41.** Competitive programming trains speed, accuracy under pressure and a deep feel for complexity, which carry over to debugging, performance work and design discussions.
