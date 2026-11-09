@@ -11,6 +11,7 @@
 
 <a href="mailto:bnmanubharadwaj@gmail.com"><img src="https://img.shields.io/badge/✉️%20Email-bnmanubharadwaj@gmail.com-EA4335?style=for-the-badge"/></a>
 <a href="https://www.linkedin.com/in/manu-bharadwaj-3507a345"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://youtube.com/@code-with-Bharadwaj"><img src="https://img.shields.io/badge/YouTube-Code%20With%20Bharadwaj-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 </div>
 
@@ -23,9 +24,10 @@
 | 🎯 **Roles I'm targeting** | Full-Stack Engineer • Frontend / React Engineer • Backend Engineer (Java) • SDE |
 | ⏱️ **Experience** | 2.5 years in enterprise software |
 | 🏢 **Worked with** | Dell • Intuit • JPMC (via TechChef's Software) • Allstate India • Fractal Analytics |
-| 💻 **Languages** | Java • Python • JavaScript |
-| 🧰 **Core stack** | React • TypeScript • Next.js • Java • Spring Boot • Django • GraphQL • Kafka • MySQL • MongoDB • Docker |
+| 💻 **Languages** | Java • Python • JavaScript • TypeScript |
+| 🧰 **Core stack** | React • TypeScript • Next.js • Spring Boot • Django • GraphQL • Kafka • PostgreSQL • MySQL • MongoDB • Docker |
 | 🏆 **Proof of skill** | LeetCode **Best Global Rank 41** |
+| 🎥 **Teaching** | YouTube: DSA, competitive programming, system design, and full-stack projects |
 | ✉️ **Reach me** | [bnmanubharadwaj@gmail.com](mailto:bnmanubharadwaj@gmail.com) |
 
 <!--
@@ -39,10 +41,36 @@
 ## 💡 What You Get When You Hire Me
 
 - 🏗️ **Enterprise frontend depth:** React and TypeScript platforms built for global stakeholders at large organizations.
-- 🧩 **Architecture ownership:** designed a React **Micro Frontend** system so teams deploy independently, cutting cross-team release coupling.
-- 🔌 **Full-stack range:** backend APIs in Spring Boot and Django, REST and GraphQL, JWT auth and role-based access control.
+- 🧩 **Architecture ownership:** designed a React **Micro Frontend** system so teams deploy independently, removing release coupling and shortening deploy times.
+- 🔌 **Full-stack range:** Spring Boot and Django backends, REST and GraphQL APIs, JWT auth and role-based access control.
 - 🚀 **Delivery focus:** more stable CI/CD, fewer rollbacks, faster releases, and fewer UI regressions through solid testing.
+- 📈 **Performance mindset:** I load-test and stress-test what I ship (k6) and report real latency and saturation numbers.
 - 🧠 **Strong fundamentals:** top-tier DSA and problem solving (LeetCode Best Global Rank 41) and system design.
+
+<br/>
+
+## 🚀 Featured Projects
+
+### 🔗 URL Shortener: Full-Stack Platform (2026)
+`Spring Boot` `React + Vite` `PostgreSQL` `JWT` `Docker` `k6`
+
+- Deployed across **Vercel, Render and Neon** with a Dockerized backend, 7 environment variables and **0 hardcoded secrets**.
+- Layered **Controller–Service–Repository** backend (Spring Data JPA, Hibernate), 8-character short codes and public **HTTP 302** redirects.
+- Stateless **JWT auth** with a custom Spring Security filter, role claim and 48-hour expiry; CORS restricted to a single origin.
+- **k6 load test on the live deployment:** 6,329 requests, 99.95% success, all 5,693 redirects verified.
+- **Saturation analysis:** from 20 to 50 users, throughput rose 63% while p95 latency rose 158%, with 0 errors.
+
+<!-- ✏️ TODO: add [Live Demo](url) • [GitHub](url) -->
+
+### 💸 Expense Splitter: Group Expense Platform (Fractal Analytics internship)
+`Django REST Framework` `React 19` `PostgreSQL` `JWT` `RBAC` `Material UI`
+
+- 13 REST endpoints (groups, members, expenses, summaries, auth) deployed across **Vercel, Render and Neon**.
+- Two split modes (equal, custom) with server-side validation; all routes secured with JWT and RBAC.
+- **Load test:** 41,127 requests, **0% failures**, 17 ms average, 48 ms p95 at 50 concurrent users.
+- **Stress test:** ramp to 200 users, 101,002 requests, **0% failures**, p95 427 ms, with gradual degradation instead of failure.
+
+<!-- ✏️ TODO: add [Live Demo](url) • [GitHub](url) -->
 
 <br/>
 
@@ -50,9 +78,9 @@
 
 | Company | Role | Period | Impact |
 | :-- | :-- | :-- | :-- |
-| **Fractal Analytics** | Full Stack Engineering Intern | Jun 2025 – Sep 2025 | Built a multi-tenant expense management platform with JWT auth and role-based access control |
+| **Fractal Analytics** | Full Stack Engineering Intern | Jul 2025 – Oct 2025 | Built a group expense platform with JWT auth, RBAC, and load and stress testing |
 | **Allstate India** | Software Engineer | Nov 2022 – Mar 2023 | Built React reporting platforms for global stakeholders; improved CI/CD stability and reduced rollbacks |
-| **TechChef's Software** | Consultant (Dell, Intuit, JPMC) | Sep 2021 – Nov 2022 | Architected Micro Frontends, built React + GraphQL modules, set up Jest/Enzyme testing from scratch, delivered WCAG-compliant UIs |
+| **TechChef's Software** | Consultant (Dell, Intuit, JPMC) | Sep 2021 – Nov 2022 | Architected Micro Frontends, built QuickBooks-integrated React + GraphQL modules, set up Jest/Enzyme testing from scratch, delivered WCAG-compliant UIs |
 | **Fidelitus Corp** | Executive IT | Jan 2021 – Jul 2021 | Built reusable React components and secure authentication flows for internal platforms |
 
 🎓 B.E., Visvesvaraya Technological University (2018)
@@ -63,7 +91,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nextjs,jest,spring,django,fastapi,graphql,kafka,mysql,mongodb,docker,jenkins,git&perline=10" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nextjs,jest,spring,django,fastapi,graphql,kafka,mysql,mongodb,postgres,docker,jenkins,git&perline=10" alt="Tech stack"/>
 
 </div>
 
@@ -71,10 +99,17 @@
 | :-- | :-- |
 | **Languages** | Java • Python • JavaScript • TypeScript • HTML • CSS |
 | **Frontend** | React • Next.js • Micro Frontends • Jest • Enzyme |
-| **Backend** | Spring Boot • Django • FastAPI • REST APIs • GraphQL • Microservices |
-| **Data & Messaging** | MySQL • MongoDB • Apache Kafka |
-| **DevOps** | Docker • Jenkins • Git • CI/CD |
+| **Backend** | Spring Boot • Django • FastAPI • REST APIs • GraphQL • Microservices • Apache Kafka |
+| **Databases & DevOps** | MySQL • MongoDB • PostgreSQL • Docker • Jenkins • Git • CI/CD |
 | **Core CS** | Data Structures • Algorithms • System Design • Caching • OOP |
+
+<br/>
+
+## 🎥 Engineering Content Creator
+
+I build real engineering projects on camera on my YouTube channel, covering competitive programming, advanced algorithms, DSA and system design, with dedicated series in **Java, Python and JavaScript**.
+
+👉 [youtube.com/@code-with-Bharadwaj](https://youtube.com/@code-with-Bharadwaj)
 
 <br/>
 
