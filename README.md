@@ -33,6 +33,7 @@
 | **Has delivered for big-name clients** | Built for **Dell, Intuit and JPMC** at TechChef's Software, and enterprise reporting platforms at **Allstate India** |
 | **Is technically elite** | LeetCode **Best Global Rank 41**, **800+** problems solved |
 | **Communicates and mentors** | **3.32K** YouTube subscribers, **~2,000** videos on DSA, CP and System Design |
+| **Speaks your team's language** | English · हिन्दी · ಕನ್ನಡ |
 | **Thinks in systems** | **50** LLD + **10** HLD designs open-sourced, each with a video walkthrough |
 
 <div align="center">
@@ -367,6 +368,10 @@ Email <b>bnmanubharadwaj@gmail.com</b> or message me on <a href="https://www.lin
 ## ⚔️ Join My Party
 
 ### I'm open to SDE roles. Send me a problem. I'll send back a solution, a deployment and a load test.
+
+**ನಮಸ್ಕಾರ · नमस्ते · Hello**
+
+*ನಿಮ್ಮ ಸಂದೇಶಕ್ಕಾಗಿ ಕಾಯುತ್ತಿದ್ದೇನೆ · आपके संदेश की प्रतीक्षा रहेगी · Write to me in any of the three.*
 
 [![Email me](https://img.shields.io/badge/EMAIL-bnmanubharadwaj@gmail.com-ff4f8b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bnmanubharadwaj@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect%20with%20me-4de1ff?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/manu-bharadwaj-3507a345)
